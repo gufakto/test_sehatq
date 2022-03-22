@@ -1,0 +1,7 @@
+{
+    "DATABASE_LOGIN": "root",
+    "DATABASE_PASSWORD": "mariadb",
+    "DATABASE_SERVER": "mariadb",
+    "DW_DATABASE_NAME": "dw_sakila",
+    "SC_DATABASE_NAME": "sakila"
+}

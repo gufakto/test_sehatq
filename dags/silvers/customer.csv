@@ -1,0 +1,600 @@
+customer_id,store_id,first_name,last_name,email,active,create_date,district,city,country
+1,1,MARY,SMITH,MARY.SMITH@sakilacustomer.org,1,2006-02-14 22:04:36,Nagasaki,Sasebo,Japan
+2,1,PATRICIA,JOHNSON,PATRICIA.JOHNSON@sakilacustomer.org,1,2006-02-14 22:04:36,California,San Bernardino,United States
+3,1,LINDA,WILLIAMS,LINDA.WILLIAMS@sakilacustomer.org,1,2006-02-14 22:04:36,Attika,Athenai,Greece
+4,2,BARBARA,JONES,BARBARA.JONES@sakilacustomer.org,1,2006-02-14 22:04:36,Mandalay,Myingyan,Myanmar
+5,1,ELIZABETH,BROWN,ELIZABETH.BROWN@sakilacustomer.org,1,2006-02-14 22:04:36,Nantou,Nantou,Taiwan
+6,2,JENNIFER,DAVIS,JENNIFER.DAVIS@sakilacustomer.org,1,2006-02-14 22:04:36,Texas,Laredo,United States
+7,1,MARIA,MILLER,MARIA.MILLER@sakilacustomer.org,1,2006-02-14 22:04:36,Central Serbia,Kragujevac,Yugoslavia
+8,2,SUSAN,WILSON,SUSAN.WILSON@sakilacustomer.org,1,2006-02-14 22:04:36,Hamilton,Hamilton,New Zealand
+9,2,MARGARET,MOORE,MARGARET.MOORE@sakilacustomer.org,1,2006-02-14 22:04:36,Masqat,Masqat,Oman
+10,1,DOROTHY,TAYLOR,DOROTHY.TAYLOR@sakilacustomer.org,1,2006-02-14 22:04:36,Esfahan,Esfahan,Iran
+11,2,LISA,ANDERSON,LISA.ANDERSON@sakilacustomer.org,1,2006-02-14 22:04:36,Kanagawa,Sagamihara,Japan
+12,1,NANCY,THOMAS,NANCY.THOMAS@sakilacustomer.org,1,2006-02-14 22:04:36,Haryana,Yamuna Nagar,India
+13,2,KAREN,JACKSON,KAREN.JACKSON@sakilacustomer.org,1,2006-02-14 22:04:36,Osmaniye,Osmaniye,Turkey
+14,2,BETTY,WHITE,BETTY.WHITE@sakilacustomer.org,1,2006-02-14 22:04:36,California,Citrus Heights,United States
+15,1,HELEN,HARRIS,HELEN.HARRIS@sakilacustomer.org,1,2006-02-14 22:04:36,Madhya Pradesh,Bhopal,India
+16,2,SANDRA,MARTIN,SANDRA.MARTIN@sakilacustomer.org,0,2006-02-14 22:04:36,England,Southend-on-Sea,United Kingdom
+17,1,DONNA,THOMPSON,DONNA.THOMPSON@sakilacustomer.org,1,2006-02-14 22:04:36,Kalmykia,Elista,Russian Federation
+18,2,CAROL,GARCIA,CAROL.GARCIA@sakilacustomer.org,1,2006-02-14 22:04:36,Kaduna,Kaduna,Nigeria
+19,1,RUTH,MARTINEZ,RUTH.MARTINEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Northern Cape,Kimberley,South Africa
+20,2,SHARON,ROBINSON,SHARON.ROBINSON@sakilacustomer.org,1,2006-02-14 22:04:36,Nothwest Border Prov,Mardan,Pakistan
+21,1,MICHELLE,CLARK,MICHELLE.CLARK@sakilacustomer.org,1,2006-02-14 22:04:36,Dhaka,Tangail,Bangladesh
+22,1,LAURA,RODRIGUEZ,LAURA.RODRIGUEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Rabat-Sal-Zammour-Z,Sal,Morocco
+23,2,SARAH,LEWIS,SARAH.LEWIS@sakilacustomer.org,1,2006-02-14 22:04:36,Liepaja,Liepaja,Latvia
+24,2,KIMBERLY,LEE,KIMBERLY.LEE@sakilacustomer.org,1,2006-02-14 22:04:36,Crdoba,Crdoba,Argentina
+25,1,DEBORAH,WALKER,DEBORAH.WALKER@sakilacustomer.org,1,2006-02-14 22:04:36,Sind,Shikarpur,Pakistan
+26,2,JESSICA,HALL,JESSICA.HALL@sakilacustomer.org,1,2006-02-14 22:04:36,,Citt del Vaticano,Holy See (Vatican City State)
+27,2,SHIRLEY,ALLEN,SHIRLEY.ALLEN@sakilacustomer.org,1,2006-02-14 22:04:36,Southern Mindanao,Davao,Philippines
+28,1,CYNTHIA,YOUNG,CYNTHIA.YOUNG@sakilacustomer.org,1,2006-02-14 22:04:36,Bihar,Munger (Monghyr),India
+29,2,ANGELA,HERNANDEZ,ANGELA.HERNANDEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Yamaguchi,Shimonoseki,Japan
+30,1,MELISSA,KING,MELISSA.KING@sakilacustomer.org,1,2006-02-14 22:04:36,Taipei,Lungtan,Taiwan
+31,2,BRENDA,WRIGHT,BRENDA.WRIGHT@sakilacustomer.org,1,2006-02-14 22:04:36,West Bengali,Kamarhati,India
+32,1,AMY,LOPEZ,AMY.LOPEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Jhansi,India
+33,2,ANNA,HILL,ANNA.HILL@sakilacustomer.org,1,2006-02-14 22:04:36,Piemonte,Alessandria,Italy
+34,2,REBECCA,SCOTT,REBECCA.SCOTT@sakilacustomer.org,1,2006-02-14 22:04:36,Okayama,Kurashiki,Japan
+35,2,VIRGINIA,GREEN,VIRGINIA.GREEN@sakilacustomer.org,1,2006-02-14 22:04:36,Midi-Pyrnes,Toulouse,France
+36,2,KATHLEEN,ADAMS,KATHLEEN.ADAMS@sakilacustomer.org,1,2006-02-14 22:04:36,Markazi,Arak,Iran
+37,1,PAMELA,BAKER,PAMELA.BAKER@sakilacustomer.org,1,2006-02-14 22:04:36,Henan,Nanyang,China
+38,1,MARTHA,GONZALEZ,MARTHA.GONZALEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Chisinau,Chisinau,Moldova
+39,1,DEBRA,NELSON,DEBRA.NELSON@sakilacustomer.org,1,2006-02-14 22:04:36,Esprito Santo,Vila Velha,Brazil
+40,2,AMANDA,CARTER,AMANDA.CARTER@sakilacustomer.org,1,2006-02-14 22:04:36,Oriental,Nador,Morocco
+41,1,STEPHANIE,MITCHELL,STEPHANIE.MITCHELL@sakilacustomer.org,1,2006-02-14 22:04:36,Yerevan,Yerevan,Armenia
+42,2,CAROLYN,PEREZ,CAROLYN.PEREZ@sakilacustomer.org,1,2006-02-14 22:04:36,Nonthaburi,Pak Kret,Thailand
+43,2,CHRISTINE,ROBERTS,CHRISTINE.ROBERTS@sakilacustomer.org,1,2006-02-14 22:04:36,Tahiti,Faaa,French Polynesia
+44,1,MARIE,TURNER,MARIE.TURNER@sakilacustomer.org,1,2006-02-14 22:04:36,Lipetsk,Lipetsk,Russian Federation
+45,1,JANET,PHILLIPS,JANET.PHILLIPS@sakilacustomer.org,1,2006-02-14 22:04:36,Antofagasta,Antofagasta,Chile
+46,2,CATHERINE,CAMPBELL,CATHERINE.CAMPBELL@sakilacustomer.org,1,2006-02-14 22:04:36,Moscow (City),Moscow,Russian Federation
+47,1,FRANCES,PARKER,FRANCES.PARKER@sakilacustomer.org,1,2006-02-14 22:04:36,Cear,Juazeiro do Norte,Brazil
+48,1,ANN,EVANS,ANN.EVANS@sakilacustomer.org,1,2006-02-14 22:04:36,Tatarstan,Niznekamsk,Russian Federation
+49,2,JOYCE,EDWARDS,JOYCE.EDWARDS@sakilacustomer.org,1,2006-02-14 22:04:36,Mekka,Jedda,Saudi Arabia
+50,1,DIANE,COLLINS,DIANE.COLLINS@sakilacustomer.org,1,2006-02-14 22:04:36,Khartum,Omdurman,Sudan
+51,1,ALICE,STEWART,ALICE.STEWART@sakilacustomer.org,1,2006-02-14 22:04:36,California,Fontana,United States
+52,1,JULIE,SANCHEZ,JULIE.SANCHEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Galicia,A Corua (La Corua),Spain
+53,1,HEATHER,MORRIS,HEATHER.MORRIS@sakilacustomer.org,1,2006-02-14 22:04:36,Chiba,Nagareyama,Japan
+54,1,TERESA,ROGERS,TERESA.ROGERS@sakilacustomer.org,1,2006-02-14 22:04:36,Yamaguchi,Iwakuni,Japan
+55,2,DORIS,REED,DORIS.REED@sakilacustomer.org,1,2006-02-14 22:04:36,Moskova,Balaiha,Russian Federation
+56,1,GLORIA,COOK,GLORIA.COOK@sakilacustomer.org,1,2006-02-14 22:04:36,Tahiti,Papeete,French Polynesia
+57,2,EVELYN,MORGAN,EVELYN.MORGAN@sakilacustomer.org,1,2006-02-14 22:04:36,Vaduz,Vaduz,Liechtenstein
+58,1,JEAN,BELL,JEAN.BELL@sakilacustomer.org,1,2006-02-14 22:04:36,Sarawak,Kuching,Malaysia
+59,1,CHERYL,MURPHY,CHERYL.MURPHY@sakilacustomer.org,1,2006-02-14 22:04:36,Karnataka,Mysore,India
+60,1,MILDRED,BAILEY,MILDRED.BAILEY@sakilacustomer.org,1,2006-02-14 22:04:36,Rajasthan,Jaipur,India
+61,2,KATHERINE,RIVERA,KATHERINE.RIVERA@sakilacustomer.org,1,2006-02-14 22:04:36,Basel-Stadt,Basel,Switzerland
+62,1,JOAN,COOPER,JOAN.COOPER@sakilacustomer.org,1,2006-02-14 22:04:36,Missouri,Saint Louis,United States
+63,1,ASHLEY,RICHARDSON,ASHLEY.RICHARDSON@sakilacustomer.org,1,2006-02-14 22:04:36,Nebraska,Lincoln,United States
+64,2,JUDITH,COX,JUDITH.COX@sakilacustomer.org,0,2006-02-14 22:04:36,Sichuan,Daxian,China
+65,2,ROSE,HOWARD,ROSE.HOWARD@sakilacustomer.org,1,2006-02-14 22:04:36,Cayenne,Cayenne,French Guiana
+66,2,JANICE,WARD,JANICE.WARD@sakilacustomer.org,1,2006-02-14 22:04:36,Skne ln,Malm,Sweden
+67,1,KELLY,TORRES,KELLY.TORRES@sakilacustomer.org,1,2006-02-14 22:04:36,Hunan,Xiangtan,China
+68,1,NICOLE,PETERSON,NICOLE.PETERSON@sakilacustomer.org,1,2006-02-14 22:04:36,Madhya Pradesh,Shivapuri,India
+69,2,JUDY,GRAY,JUDY.GRAY@sakilacustomer.org,1,2006-02-14 22:04:36,Bchar,Bchar,Algeria
+70,2,CHRISTINA,RAMIREZ,CHRISTINA.RAMIREZ@sakilacustomer.org,1,2006-02-14 22:04:36,Mekka,al-Hawiya,Saudi Arabia
+71,1,KATHY,JAMES,KATHY.JAMES@sakilacustomer.org,1,2006-02-14 22:04:36,Eastern Visayas,Baybay,Philippines
+72,2,THERESA,WATSON,THERESA.WATSON@sakilacustomer.org,1,2006-02-14 22:04:36,National Capital Reg,Taguig,Philippines
+73,2,BEVERLY,BROOKS,BEVERLY.BROOKS@sakilacustomer.org,1,2006-02-14 22:04:36,Chiayi,Chiayi,Taiwan
+74,1,DENISE,KELLY,DENISE.KELLY@sakilacustomer.org,1,2006-02-14 22:04:36,So Paulo,Rio Claro,Brazil
+75,2,TAMMY,SANDERS,TAMMY.SANDERS@sakilacustomer.org,1,2006-02-14 22:04:36,Changhwa,Changhwa,Taiwan
+76,2,IRENE,PRICE,IRENE.PRICE@sakilacustomer.org,1,2006-02-14 22:04:36,Pavlodar,Pavlodar,Kazakstan
+77,2,JANE,BENNETT,JANE.BENNETT@sakilacustomer.org,1,2006-02-14 22:04:36,So Paulo,Araatuba,Brazil
+78,1,LORI,WOOD,LORI.WOOD@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Rae Bareli,India
+79,1,RACHEL,BARNES,RACHEL.BARNES@sakilacustomer.org,1,2006-02-14 22:04:36,Kanagawa,Kamakura,Japan
+80,1,MARILYN,ROSS,MARILYN.ROSS@sakilacustomer.org,1,2006-02-14 22:04:36,Oyo & Osun,Ife,Nigeria
+81,1,ANDREA,HENDERSON,ANDREA.HENDERSON@sakilacustomer.org,1,2006-02-14 22:04:36,Mahajanga,Mahajanga,Madagascar
+82,1,KATHRYN,COLEMAN,KATHRYN.COLEMAN@sakilacustomer.org,1,2006-02-14 22:04:36,Krim,Simferopol,Ukraine
+83,1,LOUISE,JENKINS,LOUISE.JENKINS@sakilacustomer.org,1,2006-02-14 22:04:36,Gauteng,Springs,South Africa
+84,2,SARA,PERRY,SARA.PERRY@sakilacustomer.org,1,2006-02-14 22:04:36,Puebla,Atlixco,Mexico
+85,2,ANNE,POWELL,ANNE.POWELL@sakilacustomer.org,1,2006-02-14 22:04:36,England,Bradford,United Kingdom
+86,2,JACQUELINE,LONG,JACQUELINE.LONG@sakilacustomer.org,1,2006-02-14 22:04:36,Songkhla,Songkhla,Thailand
+87,1,WANDA,PATTERSON,WANDA.PATTERSON@sakilacustomer.org,1,2006-02-14 22:04:36,Sucre,Sincelejo,Colombia
+88,2,BONNIE,HUGHES,BONNIE.HUGHES@sakilacustomer.org,1,2006-02-14 22:04:36,Cheju,Cheju,South Korea
+89,1,JULIA,FLORES,JULIA.FLORES@sakilacustomer.org,1,2006-02-14 22:04:36,Buenos Aires,La Plata,Argentina
+90,2,RUBY,WASHINGTON,RUBY.WASHINGTON@sakilacustomer.org,1,2006-02-14 22:04:36,Guangdong,Meixian,China
+91,2,LOIS,BUTLER,LOIS.BUTLER@sakilacustomer.org,1,2006-02-14 22:04:36,Brunei and Muara,Bandar Seri Begawan,Brunei
+92,2,TINA,SIMMONS,TINA.SIMMONS@sakilacustomer.org,1,2006-02-14 22:04:36,Gois,Goinia,Brazil
+93,1,PHYLLIS,FOSTER,PHYLLIS.FOSTER@sakilacustomer.org,1,2006-02-14 22:04:36,Inner Mongolia,Zalantun,China
+94,1,NORMA,GONZALES,NORMA.GONZALES@sakilacustomer.org,1,2006-02-14 22:04:36,Caraga,Bislig,Philippines
+95,2,PAULA,BRYANT,PAULA.BRYANT@sakilacustomer.org,1,2006-02-14 22:04:36,Punjab,Pathankot,India
+96,1,DIANA,ALEXANDER,DIANA.ALEXANDER@sakilacustomer.org,1,2006-02-14 22:04:36,Georgia,Augusta-Richmond County,United States
+97,2,ANNIE,RUSSELL,ANNIE.RUSSELL@sakilacustomer.org,1,2006-02-14 22:04:36,Tete,Tete,Mozambique
+98,1,LILLIAN,GRIFFIN,LILLIAN.GRIFFIN@sakilacustomer.org,1,2006-02-14 22:04:36,Abu Dhabi,al-Ayn,United Arab Emirates
+99,2,EMILY,DIAZ,EMILY.DIAZ@sakilacustomer.org,1,2006-02-14 22:04:36,Kyongsangbuk,Kimchon,South Korea
+100,1,ROBIN,HAYES,ROBIN.HAYES@sakilacustomer.org,1,2006-02-14 22:04:36,Lipetsk,Jelets,Russian Federation
+101,1,PEGGY,MYERS,PEGGY.MYERS@sakilacustomer.org,1,2006-02-14 22:04:36,Asir,Abha,Saudi Arabia
+102,1,CRYSTAL,FORD,CRYSTAL.FORD@sakilacustomer.org,1,2006-02-14 22:04:36,Ha Darom,Ashdod,Israel
+103,1,GLADYS,HAMILTON,GLADYS.HAMILTON@sakilacustomer.org,1,2006-02-14 22:04:36,Kwara & Kogi,Ilorin,Nigeria
+104,1,RITA,GRAHAM,RITA.GRAHAM@sakilacustomer.org,1,2006-02-14 22:04:36,Provence-Alpes-Cte,Toulon,France
+105,1,DAWN,SULLIVAN,DAWN.SULLIVAN@sakilacustomer.org,1,2006-02-14 22:04:36,Funafuti,Funafuti,Tuvalu
+106,1,CONNIE,WALLACE,CONNIE.WALLACE@sakilacustomer.org,1,2006-02-14 22:04:36,Ivanovo,Ivanovo,Russian Federation
+107,1,FLORENCE,WOODS,FLORENCE.WOODS@sakilacustomer.org,1,2006-02-14 22:04:36,Buenos Aires,Merlo,Argentina
+108,1,TRACY,COLE,TRACY.COLE@sakilacustomer.org,1,2006-02-14 22:04:36,Mxico,Huixquilucan,Mexico
+109,2,EDNA,WEST,EDNA.WEST@sakilacustomer.org,1,2006-02-14 22:04:36,North West,Klerksdorp,South Africa
+110,2,TIFFANY,JORDAN,TIFFANY.JORDAN@sakilacustomer.org,1,2006-02-14 22:04:36,Hubei,Enshi,China
+111,1,CARMEN,OWENS,CARMEN.OWENS@sakilacustomer.org,1,2006-02-14 22:04:36,Distrito Federal,Caracas,Venezuela
+112,2,ROSA,REYNOLDS,ROSA.REYNOLDS@sakilacustomer.org,1,2006-02-14 22:04:36,California,Lancaster,United States
+113,2,CINDY,FISHER,CINDY.FISHER@sakilacustomer.org,1,2006-02-14 22:04:36,Sucre,Cuman,Venezuela
+114,2,GRACE,ELLIS,GRACE.ELLIS@sakilacustomer.org,1,2006-02-14 22:04:36,Nordrhein-Westfalen,Duisburg,Germany
+115,1,WENDY,HARRISON,WENDY.HARRISON@sakilacustomer.org,1,2006-02-14 22:04:36,Mxico,Nezahualcyotl,Mexico
+116,1,VICTORIA,GIBSON,VICTORIA.GIBSON@sakilacustomer.org,1,2006-02-14 22:04:36,Central Java,Pemalang,Indonesia
+117,1,EDITH,MCDONALD,EDITH.MCDONALD@sakilacustomer.org,1,2006-02-14 22:04:36,Gujarat,Gandhinagar,India
+118,1,KIM,CRUZ,KIM.CRUZ@sakilacustomer.org,1,2006-02-14 22:04:36,Texas,Grand Prairie,United States
+119,1,SHERRY,MARSHALL,SHERRY.MARSHALL@sakilacustomer.org,1,2006-02-14 22:04:36,al-Qalyubiya,Shubra al-Khayma,Egypt
+120,2,SYLVIA,ORTIZ,SYLVIA.ORTIZ@sakilacustomer.org,1,2006-02-14 22:04:36,Risaralda,Dos Quebradas,Colombia
+121,1,JOSEPHINE,GOMEZ,JOSEPHINE.GOMEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Etawah,India
+122,1,THELMA,MURRAY,THELMA.MURRAY@sakilacustomer.org,1,2006-02-14 22:04:36,Lima,Lima,Peru
+123,2,SHANNON,FREEMAN,SHANNON.FREEMAN@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Varanasi (Benares),India
+124,1,SHEILA,WELLS,SHEILA.WELLS@sakilacustomer.org,0,2006-02-14 22:04:36,Ktahya,Ktahya,Turkey
+125,1,ETHEL,WEBB,ETHEL.WEBB@sakilacustomer.org,1,2006-02-14 22:04:36,Gauteng,Boksburg,South Africa
+126,1,ELLEN,SIMPSON,ELLEN.SIMPSON@sakilacustomer.org,1,2006-02-14 22:04:36,So Paulo,Po,Brazil
+127,2,ELAINE,STEVENS,ELAINE.STEVENS@sakilacustomer.org,1,2006-02-14 22:04:36,Smolensk,Smolensk,Russian Federation
+128,1,MARJORIE,TUCKER,MARJORIE.TUCKER@sakilacustomer.org,1,2006-02-14 22:04:36,Slaskie,Jastrzebie-Zdrj,Poland
+129,1,CARRIE,PORTER,CARRIE.PORTER@sakilacustomer.org,1,2006-02-14 22:04:36,Shandong,Liaocheng,China
+130,1,CHARLOTTE,HUNTER,CHARLOTTE.HUNTER@sakilacustomer.org,1,2006-02-14 22:04:36,Gois,guas Lindas de Gois,Brazil
+131,2,MONICA,HICKS,MONICA.HICKS@sakilacustomer.org,1,2006-02-14 22:04:36,Taka-Karpatia,Mukateve,Ukraine
+132,2,ESTHER,CRAWFORD,ESTHER.CRAWFORD@sakilacustomer.org,1,2006-02-14 22:04:36,Free State,Botshabelo,South Africa
+133,1,PAULINE,HENRY,PAULINE.HENRY@sakilacustomer.org,1,2006-02-14 22:04:36,Coahuila de Zaragoza,Torren,Mexico
+134,1,EMMA,BOYD,EMMA.BOYD@sakilacustomer.org,1,2006-02-14 22:04:36,al-Qalyubiya,Qalyub,Egypt
+135,2,JUANITA,MASON,JUANITA.MASON@sakilacustomer.org,1,2006-02-14 22:04:36,Maharashtra,Pune,India
+136,2,ANITA,MORALES,ANITA.MORALES@sakilacustomer.org,1,2006-02-14 22:04:36,Karnataka,Hubli-Dharwad,India
+137,2,RHONDA,KENNEDY,RHONDA.KENNEDY@sakilacustomer.org,1,2006-02-14 22:04:36,Gelderland,Apeldoorn,Netherlands
+138,1,HAZEL,WARREN,HAZEL.WARREN@sakilacustomer.org,1,2006-02-14 22:04:36,Inner Mongolia,Hohhot,China
+139,1,AMBER,DIXON,AMBER.DIXON@sakilacustomer.org,1,2006-02-14 22:04:36,Ynlin,Touliu,Taiwan
+140,1,EVA,RAMOS,EVA.RAMOS@sakilacustomer.org,1,2006-02-14 22:04:36,Tennessee,Clarksville,United States
+141,1,DEBBIE,REYES,DEBBIE.REYES@sakilacustomer.org,1,2006-02-14 22:04:36,Hiroshima,Fukuyama,Japan
+142,1,APRIL,BURNS,APRIL.BURNS@sakilacustomer.org,1,2006-02-14 22:04:36,Scotland,Dundee,United Kingdom
+143,1,LESLIE,GORDON,LESLIE.GORDON@sakilacustomer.org,1,2006-02-14 22:04:36,Kilis,Kilis,Turkey
+144,1,CLARA,SHAW,CLARA.SHAW@sakilacustomer.org,1,2006-02-14 22:04:36,Minsk,Molodetno,Belarus
+145,1,LUCILLE,HOLMES,LUCILLE.HOLMES@sakilacustomer.org,1,2006-02-14 22:04:36,Gauteng,Soshanguve,South Africa
+146,1,JAMIE,RICE,JAMIE.RICE@sakilacustomer.org,1,2006-02-14 22:04:36,Michigan,Sterling Heights,United States
+147,2,JOANNE,ROBERTSON,JOANNE.ROBERTSON@sakilacustomer.org,1,2006-02-14 22:04:36,Saitama,Urawa,Japan
+148,1,ELEANOR,HUNT,ELEANOR.HUNT@sakilacustomer.org,1,2006-02-14 22:04:36,Saint-Denis,Saint-Denis,Runion
+149,1,VALERIE,BLACK,VALERIE.BLACK@sakilacustomer.org,1,2006-02-14 22:04:36,Massachusetts,Brockton,United States
+150,2,DANIELLE,DANIELS,DANIELLE.DANIELS@sakilacustomer.org,1,2006-02-14 22:04:36,Michoacn de Ocampo,Hidalgo,Mexico
+151,2,MEGAN,PALMER,MEGAN.PALMER@sakilacustomer.org,1,2006-02-14 22:04:36,Shandong,Laiwu,China
+152,1,ALICIA,MILLS,ALICIA.MILLS@sakilacustomer.org,1,2006-02-14 22:04:36,Assam,Nagaon,India
+153,2,SUZANNE,NICHOLS,SUZANNE.NICHOLS@sakilacustomer.org,1,2006-02-14 22:04:36,Jakarta Raya,Jakarta,Indonesia
+154,2,MICHELE,GRANT,MICHELE.GRANT@sakilacustomer.org,1,2006-02-14 22:04:36,Shanxi,Yuncheng,China
+155,1,GAIL,KNIGHT,GAIL.KNIGHT@sakilacustomer.org,1,2006-02-14 22:04:36,Bern,Bern,Switzerland
+156,1,BERTHA,FERGUSON,BERTHA.FERGUSON@sakilacustomer.org,1,2006-02-14 22:04:36,Ondo & Ekiti,Ondo,Nigeria
+157,2,DARLENE,ROSE,DARLENE.ROSE@sakilacustomer.org,1,2006-02-14 22:04:36,Pyongyang-si,Pyongyang,North Korea
+158,1,VERONICA,STONE,VERONICA.STONE@sakilacustomer.org,1,2006-02-14 22:04:36,North Carolina,Greensboro,United States
+159,1,JILL,HAWKINS,JILL.HAWKINS@sakilacustomer.org,1,2006-02-14 22:04:36,North Austria,Linz,Austria
+160,2,ERIN,DUNN,ERIN.DUNN@sakilacustomer.org,1,2006-02-14 22:04:36,Moskova,Ljubertsy,Russian Federation
+161,1,GERALDINE,PERKINS,GERALDINE.PERKINS@sakilacustomer.org,1,2006-02-14 22:04:36,Tel Aviv,Tel Aviv-Jaffa,Israel
+162,2,LAUREN,HUDSON,LAUREN.HUDSON@sakilacustomer.org,1,2006-02-14 22:04:36,Pays de la Loire,Le Mans,France
+163,1,CATHY,SPENCER,CATHY.SPENCER@sakilacustomer.org,1,2006-02-14 22:04:36,Gifu,Kakamigahara,Japan
+164,2,JOANN,GARDNER,JOANN.GARDNER@sakilacustomer.org,1,2006-02-14 22:04:36,Adana,Tarsus,Turkey
+165,2,LORRAINE,STEPHENS,LORRAINE.STEPHENS@sakilacustomer.org,1,2006-02-14 22:04:36,Xinxiang,Hami,China
+166,1,LYNN,PAYNE,LYNN.PAYNE@sakilacustomer.org,1,2006-02-14 22:04:36,Lilongwe,Lilongwe,Malawi
+167,2,SALLY,PIERCE,SALLY.PIERCE@sakilacustomer.org,1,2006-02-14 22:04:36,Maharashtra,Chandrapur,India
+168,1,REGINA,BERRY,REGINA.BERRY@sakilacustomer.org,1,2006-02-14 22:04:36,Gansu,Jinchang,China
+169,2,ERICA,MATTHEWS,ERICA.MATTHEWS@sakilacustomer.org,0,2006-02-14 22:04:36,Jiangxi,Pingxiang,China
+170,1,BEATRICE,ARNOLD,BEATRICE.ARNOLD@sakilacustomer.org,1,2006-02-14 22:04:36,Rajasthan,Udaipur,India
+171,2,DOLORES,WAGNER,DOLORES.WAGNER@sakilacustomer.org,1,2006-02-14 22:04:36,Perak,Ipoh,Malaysia
+172,1,BERNICE,WILLIS,BERNICE.WILLIS@sakilacustomer.org,1,2006-02-14 22:04:36,Batman,Batman,Turkey
+173,1,AUDREY,RAY,AUDREY.RAY@sakilacustomer.org,1,2006-02-14 22:04:36,Steiermark,Graz,Austria
+174,2,YVONNE,WATKINS,YVONNE.WATKINS@sakilacustomer.org,1,2006-02-14 22:04:36,Miranda,Ocumare del Tuy,Venezuela
+175,1,ANNETTE,OLSON,ANNETTE.OLSON@sakilacustomer.org,1,2006-02-14 22:04:36,Kerala,Allappuzha (Alleppey),India
+176,1,JUNE,CARROLL,JUNE.CARROLL@sakilacustomer.org,1,2006-02-14 22:04:36,Skikda,Skikda,Algeria
+177,2,SAMANTHA,DUNCAN,SAMANTHA.DUNCAN@sakilacustomer.org,1,2006-02-14 22:04:36,Tamaulipas,Matamoros,Mexico
+178,2,MARION,SNYDER,MARION.SNYDER@sakilacustomer.org,1,2006-02-14 22:04:36,So Paulo,Santa Brbara dOeste,Brazil
+179,1,DANA,HART,DANA.HART@sakilacustomer.org,1,2006-02-14 22:04:36,Kirov,Kirovo-Tepetsk,Russian Federation
+180,2,STACY,CUNNINGHAM,STACY.CUNNINGHAM@sakilacustomer.org,1,2006-02-14 22:04:36,Risaralda,Pereira,Colombia
+181,2,ANA,BRADLEY,ANA.BRADLEY@sakilacustomer.org,1,2006-02-14 22:04:36,Tennessee,Memphis,United States
+182,1,RENEE,LANE,RENEE.LANE@sakilacustomer.org,1,2006-02-14 22:04:36,California,Compton,United States
+183,2,IDA,ANDREWS,IDA.ANDREWS@sakilacustomer.org,1,2006-02-14 22:04:36,Gois,Luzinia,Brazil
+184,1,VIVIAN,RUIZ,VIVIAN.RUIZ@sakilacustomer.org,1,2006-02-14 22:04:36,Noord-Brabant,s-Hertogenbosch,Netherlands
+185,1,ROBERTA,HARPER,ROBERTA.HARPER@sakilacustomer.org,1,2006-02-14 22:04:36,Chaharmahal va Bakht,Shahr-e Kord,Iran
+186,2,HOLLY,FOX,HOLLY.FOX@sakilacustomer.org,1,2006-02-14 22:04:36,West Bengali,Haldia,India
+187,2,BRITTANY,RILEY,BRITTANY.RILEY@sakilacustomer.org,1,2006-02-14 22:04:36,Sumy,Sumy,Ukraine
+188,1,MELANIE,ARMSTRONG,MELANIE.ARMSTRONG@sakilacustomer.org,1,2006-02-14 22:04:36,Caraga,Bayugan,Philippines
+189,1,LORETTA,CARPENTER,LORETTA.CARPENTER@sakilacustomer.org,1,2006-02-14 22:04:36,Ontario,Oshawa,Canada
+190,2,YOLANDA,WEAVER,YOLANDA.WEAVER@sakilacustomer.org,1,2006-02-14 22:04:36,Tabora,Tabora,Tanzania
+191,1,JEANETTE,GREENE,JEANETTE.GREENE@sakilacustomer.org,1,2006-02-14 22:04:36,Rostov-na-Donu,Novoterkassk,Russian Federation
+192,1,LAURIE,LAWRENCE,LAURIE.LAWRENCE@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Firozabad,India
+193,2,KATIE,ELLIOTT,KATIE.ELLIOTT@sakilacustomer.org,1,2006-02-14 22:04:36,Nyanza,Kisumu,Kenya
+194,2,KRISTEN,CHAVEZ,KRISTEN.CHAVEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Tokyo-to,Hino,Japan
+195,1,VANESSA,SIMS,VANESSA.SIMS@sakilacustomer.org,1,2006-02-14 22:04:36,Nordrhein-Westfalen,Siegen,Germany
+196,1,ALMA,AUSTIN,ALMA.AUSTIN@sakilacustomer.org,1,2006-02-14 22:04:36,Baden-Wrttemberg,Mannheim,Germany
+197,2,SUE,PETERS,SUE.PETERS@sakilacustomer.org,1,2006-02-14 22:04:36,Jiangsu,Changzhou,China
+198,2,ELSIE,KELLEY,ELSIE.KELLEY@sakilacustomer.org,1,2006-02-14 22:04:36,Ondo & Ekiti,Ikerre,Nigeria
+199,2,BETH,FRANKLIN,BETH.FRANKLIN@sakilacustomer.org,1,2006-02-14 22:04:36,Haiphong,Haiphong,Vietnam
+200,2,JEANNE,LAWSON,JEANNE.LAWSON@sakilacustomer.org,1,2006-02-14 22:04:36,Ahal,Ashgabat,Turkmenistan
+201,1,VICKI,FIELDS,VICKI.FIELDS@sakilacustomer.org,1,2006-02-14 22:04:36,Nordrhein-Westfalen,Witten,Germany
+202,2,CARLA,GUTIERREZ,CARLA.GUTIERREZ@sakilacustomer.org,1,2006-02-14 22:04:36,Maharashtra,Bhusawal,India
+203,1,TARA,RYAN,TARA.RYAN@sakilacustomer.org,1,2006-02-14 22:04:36,Sulawesi Utara,Gorontalo,Indonesia
+204,1,ROSEMARY,SCHMIDT,ROSEMARY.SCHMIDT@sakilacustomer.org,1,2006-02-14 22:04:36,Usak,Usak,Turkey
+205,2,EILEEN,CARR,EILEEN.CARR@sakilacustomer.org,1,2006-02-14 22:04:36,Alto Paran,Ciudad del Este,Paraguay
+206,1,TERRI,VASQUEZ,TERRI.VASQUEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Santa Catarina,Blumenau,Brazil
+207,1,GERTRUDE,CASTILLO,GERTRUDE.CASTILLO@sakilacustomer.org,1,2006-02-14 22:04:36,Kitaa,Nuuk,Greenland
+208,1,LUCY,WHEELER,LUCY.WHEELER@sakilacustomer.org,1,2006-02-14 22:04:36,West Bengali,Balurghat,India
+209,2,TONYA,CHAPMAN,TONYA.CHAPMAN@sakilacustomer.org,1,2006-02-14 22:04:36,Rajasthan,Bhilwara,India
+210,2,ELLA,OLIVER,ELLA.OLIVER@sakilacustomer.org,1,2006-02-14 22:04:36,Aden,Aden,Yemen
+211,1,STACEY,MONTGOMERY,STACEY.MONTGOMERY@sakilacustomer.org,1,2006-02-14 22:04:36,Jilin,Fuyu,China
+212,2,WILMA,RICHARDS,WILMA.RICHARDS@sakilacustomer.org,1,2006-02-14 22:04:36,Washington,Bellevue,United States
+213,1,GINA,WILLIAMSON,GINA.WILLIAMSON@sakilacustomer.org,1,2006-02-14 22:04:36,Taizz,Taizz,Yemen
+214,1,KRISTIN,JOHNSTON,KRISTIN.JOHNSTON@sakilacustomer.org,1,2006-02-14 22:04:36,California,Sunnyvale,United States
+215,2,JESSIE,BANKS,JESSIE.BANKS@sakilacustomer.org,1,2006-02-14 22:04:36,Haskovo,Stara Zagora,Bulgaria
+216,1,NATALIE,MEYER,NATALIE.MEYER@sakilacustomer.org,1,2006-02-14 22:04:36,Gois,Aparecida de Goinia,Brazil
+217,2,AGNES,BISHOP,AGNES.BISHOP@sakilacustomer.org,1,2006-02-14 22:04:36,Uttar Pradesh,Sambhal,India
+218,1,VERA,MCCOY,VERA.MCCOY@sakilacustomer.org,1,2006-02-14 22:04:36,Kabol,Kabul,Afghanistan
+219,2,WILLIE,HOWELL,WILLIE.HOWELL@sakilacustomer.org,1,2006-02-14 22:04:36,Buenos Aires,Vicente Lpez,Argentina
+220,2,CHARLENE,ALVAREZ,CHARLENE.ALVAREZ@sakilacustomer.org,1,2006-02-14 22:04:36,Zanzibar West,Zanzibar,Tanzania
+221,1,BESSIE,MORRISON,BESSIE.MORRISON@sakilacustomer.org,1,2006-02-14 22:04:36,Sisilia,Syrakusa,Italy
+222,2,DELORES,HANSEN,DELORES.HANSEN@sakilacustomer.org,1,2006-02-14 22:04:36,Jaroslavl,Jaroslavl,Russian Federation
+223,1,MELINDA,FERNANDEZ,MELINDA.FERNANDEZ@sakilacustomer.org,1,2006-02-14 22:04:36,Punjab,Mandi Bahauddin,Pakistan
+224,2,PEARL,GARZA,PEARL.GARZA@sakilacustomer.org,1,2006-02-14 22:04:36,Rajasthan,Jodhpur,India
+225,1,ARLENE,HARVEY,ARLENE.HARVEY@sakilacustomer.org,1,2006-02-14 22:04:36,Tamil Nadu,Ambattur,India
+226,2,MAUREEN,LITTLE,MAUREEN.LITTLE@sakilacustomer.org,1,2006-02-14 22:04:36,Asuncin,Asuncin,Paraguay
+227,1,COLLEEN,BURTON,COLLEEN.BURTON@sakilacustomer.org,1,2006-02-14 22:04:36,Saarland,Saarbrcken,Germany
+228,2,ALLISON,STANLEY,ALLISON.STANLEY@sakilacustomer.org,1,2006-02-14 22:04:36,Phnom Penh,Phnom Penh,Cambodia
+229,1,TAMARA,NGUYEN,TAMARA.NGUYEN@sakilacustomer.org,1,2006-02-14 22:04:36,Gois,Anpolis,Brazil
+230,2,JOY,GEORGE,JOY.GEORGE@sakilacustomer.org,1,2006-02-14 22:04:36,Botosani,Botosani,Romania
+231,1,GEORGIA,JACOBS,GEORGIA.JACOBS@sakilacustomer.org,1,2006-02-14 22:04:36,West Bengali,Uttarpara-Kotrung,India
+232,2,CONSTANCE,REID,CONSTANCE.REID@sakilacustomer.org,1,2006-02-14 22:04:36,Kaduna,Zaria,Nigeria
+233,2,LILLIE,KIM,LILLIE.KIM@sakilacustomer.org,1,2006-02-14 22:04:36,Qina,Idfu,Egypt
+234,1,CLAUDIA,FULLER,CLAUDIA.FULLER@sakilacustomer.org,1,2006-02-14 22:04:36,Hawalli,Jalib al-Shuyukh,Kuwait
+235,1,JACKIE,LYNCH,JACKIE.LYNCH@sakilacustomer.org,1,2006-02-14 22:04:36,Valle,Buenaventura,Colombia
+236,1,MARCIA,DEAN,MARCIA.DEAN@sakilacustomer.org,1,2006-02-14 22:04:36,Southern Tagalog,Tanza,Philippines
+237,1,TANYA,GILBERT,TANYA.GILBERT@sakilacustomer.org,1,2006-02-14 22:04:36,Chollanam,Naju,South Korea
+238,1,NELLIE,GARRETT,NELLIE.GARRETT@sakilacustomer.org,1,2006-02-14 22:04:36,Karnataka,Shimoga,India
+239,2,MINNIE,ROMERO,MINNIE.ROMERO@sakilacustomer.org,1,2006-02-14 22:04:36,West Java,Ciomas,Indonesia
+240,1,MARLENE,WELCH,MARLENE.WELCH@sakilacustomer.org,1,2006-02-14 22:04:36,Fukushima,Iwaki,Japan
+241,2,HEIDI,LARSON,HEIDI.LARSON@sakilacustomer.org,0,2006-02-14 22:04:36,Hubei,Xiangfan,China
+242,1,GLENDA,FRAZIER,GLENDA.FRAZIER@sakilacustomer.org,1,2006-02-14 22:04:36,Hebei,Qinhuangdao,China
+243,1,LYDIA,BURKE,LYDIA.BURKE@sakilacustomer.org,1,2006-02-14 22:04:36,Tucumn,San Miguel de Tucumn,Argentina
+244,2,VIOLA,HANSON,VIOLA.HANSON@sakilacustomer.org,1,2006-02-14 22:04:36,Central Visayas,Lapu-Lapu,Philippines
+245,1,COURTNEY,DAY,COURTNEY.DAY@sakilacustomer.org,1,2006-02-14 22:04:36,Kyonggi,Uijongbu,South Korea
+246,1,MARIAN,MENDOZA,MARIAN.MENDOZA@sakilacustomer.org,1,2006-02-14 22:04:36,Paran,Maring,Brazil
+247,1,STELLA,MORENO,STELLA.MORENO@sakilacustomer.org,1,2006-02-14 22:04:36,Mxico,Coacalco de Berriozbal,Mexico
+248,1,CAROLINE,BOWMAN,CAROLINE.BOWMAN@sakilacustomer.org,1,2006-02-14 22:04:36,Florida,Tallahassee,United States
+249,2,DORA,MEDINA,DORA.MEDINA@sakilacustomer.org,1,2006-02-14 22:04:36,Tianjin,Tianjin,China
+250,2,JO,FOWLER,JO.FOWLER@sakilacustomer.org,1,2006-02-14 22:04:36,Oyo & Osun,Oyo,Nigeria
+251,2,VICKIE,BREWER,VICKIE.BREWER@sakilacustomer.org,1,2006-02-14 22:04:36,Anhalt Sachsen,Halle/Saale,Germany
+252,2,MATTIE,HOFFMAN,MATTIE.HOFFMAN@sakilacustomer.org,1,2006-02-14 22:04:36,England,London,United Kingdom
+253,1,TERRY,CARLSON,TERRY.CARLSON@sakilacustomer.org,1,2006-02-14 22:04:36,Miyazaki,Miyakonojo,Japan
+254,2,MAXINE,SILVA,MAXINE.SILVA@sakilacustomer.org,1,2006-02-14 22:04:36,Minas Gerais,Poos de Caldas,Brazil
+255,2,IRMA,PEARSON,IRMA.PEARSON@sakilacustomer.org,1,2006-02-14 22:04:36,Central Luzon,Hagonoy,Philippines
+256,2,MABEL,HOLLAND,MABEL.HOLLAND@sakilacustomer.org,1,2006-02-14 22:04:36,Sagaing,Monywa,Myanmar
+257,2,MARSHA,DOUGLAS,MARSHA.DOUGLAS@sakilacustomer.org,1,2006-02-14 22:04:36,Sofala,Beira,Mozambique
+258,1,MYRTLE,FLEMING,MYRTLE.FLEMING@sakilacustomer.org,1,2006-02-14 22:04:36,Santiago,Santiago de los Caballeros,Dominican Republic
+259,2,LENA,JENSEN,LENA.JENSEN@sakilacustomer.org,1,2006-02-14 22:04:36,West Bengali,Halisahar,India
+260,1,CHRISTY,VARGAS,CHRISTY.VARGAS@sakilacustomer.org,1,2006-02-14 22:04:36,Shanxi,Datong,China
+261,1,DEANNA,BYRD,DEANNA.BYRD@sakilacustomer.org,1,2006-02-14 22:04:36,Cagayan Valley,Tuguegarao,Philippines
+262,2,PATSY,DAVIDSON,PATSY.DAVIDSON@sakilacustomer.org,1,2006-02-14 22:04:36,Manab,Portoviejo,Ecuador
+263,1,HILDA,HOPKINS,HILDA.HOPKINS@sakilacustomer.org,1,2006-02-14 22:04:36,National Capital Reg,Mandaluyong,Philippines
+264,1,GWENDOLYN,MAY,GWENDOLYN.MAY@sakilacustomer.org,1,2006-02-14 22:04:36,Osaka,Higashiosaka,Japan
+265,2,JENNIE,TERRY,JENNIE.TERRY@sakilacustomer.org,1,2006-02-14 22:04:36,Severn Morava,Olomouc,Czech Republic
+266,2,NORA,HERRERA,NORA.HERRERA@sakilacustomer.org,1,2006-02-14 22:04:36,Salzburg,Salzburg,Austria
+267,1,MARGIE,WADE,MARGIE.WADE@sakilacustomer.org,1,2006-02-14 22:04:36,Hunan,Lengshuijiang,China
+268,1,NINA,SOTO,NINA.SOTO@sakilacustomer.org,1,2006-02-14 22:04:36,Kerala,Palghat (Palakkad),India
+269,1,CASSANDRA,WALTERS,CASSANDRA.WALTERS@sakilacustomer.org,1,2006-02-14 22:04:36,California,Salinas,United States
+270,1,LEAH,CURTIS,LEAH.CURTIS@sakilacustomer.org,1,2006-02-14 22:04:36,Wielkopolskie,Kalisz,Poland
+271,1,PENNY,NEAL,PENNY.NEAL@sakilacustomer.org,0,2006-02-14 22:04:36,Tamil Nadu,Kumbakonam,India
+272,1,KAY,CALDWELL,KAY.CALDWELL@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Yantai,China
+273,2,PRISCILLA,LOWE,PRISCILLA.LOWE@sakilacustomer.org,1,2006-02-14 22:04:37,Guanajuato,Salamanca,Mexico
+274,1,NAOMI,JENNINGS,NAOMI.JENNINGS@sakilacustomer.org,1,2006-02-14 22:04:37,Haryana,Karnal,India
+275,2,CAROLE,BARNETT,CAROLE.BARNETT@sakilacustomer.org,1,2006-02-14 22:04:37,Illinois,Peoria,United States
+276,1,BRANDY,GRAVES,BRANDY.GRAVES@sakilacustomer.org,1,2006-02-14 22:04:37,Michigan,Warren,United States
+277,2,OLGA,JIMENEZ,OLGA.JIMENEZ@sakilacustomer.org,1,2006-02-14 22:04:37,Oyo & Osun,Ogbomosho,Nigeria
+278,2,BILLIE,HORTON,BILLIE.HORTON@sakilacustomer.org,1,2006-02-14 22:04:37,Bursa,Inegl,Turkey
+279,2,DIANNE,SHELTON,DIANNE.SHELTON@sakilacustomer.org,1,2006-02-14 22:04:37,East Azerbaidzan,Tabriz,Iran
+280,2,TRACEY,BARRETT,TRACEY.BARRETT@sakilacustomer.org,1,2006-02-14 22:04:37,Ondo & Ekiti,Owo,Nigeria
+281,2,LEONA,OBRIEN,LEONA.OBRIEN@sakilacustomer.org,1,2006-02-14 22:04:37,Fujian,Fuzhou,China
+282,2,JENNY,CASTRO,JENNY.CASTRO@sakilacustomer.org,1,2006-02-14 22:04:37,Ponce,Ponce,Puerto Rico
+283,1,FELICIA,SUTTON,FELICIA.SUTTON@sakilacustomer.org,1,2006-02-14 22:04:37,Xinxiang,Korla,China
+284,1,SONIA,GREGORY,SONIA.GREGORY@sakilacustomer.org,1,2006-02-14 22:04:37,Edo & Delta,Benin City,Nigeria
+285,1,MIRIAM,MCKINNEY,MIRIAM.MCKINNEY@sakilacustomer.org,1,2006-02-14 22:04:37,Shiga,Otsu,Japan
+286,1,VELMA,LUCAS,VELMA.LUCAS@sakilacustomer.org,1,2006-02-14 22:04:37,Oyo & Osun,Effon-Alaiye,Nigeria
+287,2,BECKY,MILES,BECKY.MILES@sakilacustomer.org,1,2006-02-14 22:04:37,Tamil Nadu,Tambaram,India
+288,1,BOBBIE,CRAIG,BOBBIE.CRAIG@sakilacustomer.org,1,2006-02-14 22:04:37,Guanajuato,Valle de Santiago,Mexico
+289,1,VIOLET,RODRIQUEZ,VIOLET.RODRIQUEZ@sakilacustomer.org,1,2006-02-14 22:04:37,Kowloon and New Kowl,Kowloon and New Kowloon,Hong Kong
+290,1,KRISTINA,CHAMBERS,KRISTINA.CHAMBERS@sakilacustomer.org,1,2006-02-14 22:04:37,Gurico,Valle de la Pascua,Venezuela
+291,1,TONI,HOLT,TONI.HOLT@sakilacustomer.org,1,2006-02-14 22:04:37,Virginia,Roanoke,United States
+292,2,MISTY,LAMBERT,MISTY.LAMBERT@sakilacustomer.org,1,2006-02-14 22:04:37,Sharja,Sharja,United Arab Emirates
+293,2,MAE,FLETCHER,MAE.FLETCHER@sakilacustomer.org,1,2006-02-14 22:04:37,Baskimaa,Donostia-San Sebastin,Spain
+294,2,SHELLY,WATTS,SHELLY.WATTS@sakilacustomer.org,1,2006-02-14 22:04:37,Ohio,Dayton,United States
+295,1,DAISY,BATES,DAISY.BATES@sakilacustomer.org,1,2006-02-14 22:04:37,Pietari,Kolpino,Russian Federation
+296,2,RAMONA,HALE,RAMONA.HALE@sakilacustomer.org,1,2006-02-14 22:04:37,Punjab,Patiala,India
+297,1,SHERRI,RHODES,SHERRI.RHODES@sakilacustomer.org,1,2006-02-14 22:04:37,Maharashtra,Ahmadnagar,India
+298,1,ERIKA,PENA,ERIKA.PENA@sakilacustomer.org,1,2006-02-14 22:04:37,Pohjois-Pohjanmaa,Oulu,Finland
+299,2,JAMES,GANNON,JAMES.GANNON@sakilacustomer.org,1,2006-02-14 22:04:37,Hiroshima,Hiroshima,Japan
+300,1,JOHN,FARNSWORTH,JOHN.FARNSWORTH@sakilacustomer.org,1,2006-02-14 22:04:37,Maharashtra,Parbhani,India
+301,2,ROBERT,BAUGHMAN,ROBERT.BAUGHMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Kaliningrad,Kaliningrad,Russian Federation
+302,1,MICHAEL,SILVERMAN,MICHAEL.SILVERMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Liaoning,Tiefa,China
+303,2,WILLIAM,SATTERFIELD,WILLIAM.SATTERFIELD@sakilacustomer.org,1,2006-02-14 22:04:37,Sanaa,Sanaa,Yemen
+304,2,DAVID,ROYAL,DAVID.ROYAL@sakilacustomer.org,1,2006-02-14 22:04:37,Callao,Callao,Peru
+305,1,RICHARD,MCCRARY,RICHARD.MCCRARY@sakilacustomer.org,1,2006-02-14 22:04:37,Texas,Arlington,United States
+306,1,CHARLES,KOWALSKI,CHARLES.KOWALSKI@sakilacustomer.org,1,2006-02-14 22:04:37,Kedah,Sungai Petani,Malaysia
+307,2,JOSEPH,JOY,JOSEPH.JOY@sakilacustomer.org,1,2006-02-14 22:04:37,Rio de Janeiro,Angra dos Reis,Brazil
+308,1,THOMAS,GRIGSBY,THOMAS.GRIGSBY@sakilacustomer.org,1,2006-02-14 22:04:37,Missouri,Kansas City,United States
+309,1,CHRISTOPHER,GRECO,CHRISTOPHER.GRECO@sakilacustomer.org,1,2006-02-14 22:04:37,Lombardia,Brescia,Italy
+310,2,DANIEL,CABRAL,DANIEL.CABRAL@sakilacustomer.org,1,2006-02-14 22:04:37,Minas Gerais,Ibirit,Brazil
+311,2,PAUL,TROUT,PAUL.TROUT@sakilacustomer.org,1,2006-02-14 22:04:37,Kursk,Kursk,Russian Federation
+312,2,MARK,RINEHART,MARK.RINEHART@sakilacustomer.org,1,2006-02-14 22:04:37,Tabuk,Tabuk,Saudi Arabia
+313,2,DONALD,MAHON,DONALD.MAHON@sakilacustomer.org,1,2006-02-14 22:04:37,Hubei,Ezhou,China
+314,1,GEORGE,LINTON,GEORGE.LINTON@sakilacustomer.org,1,2006-02-14 22:04:37,So Paulo,Sorocaba,Brazil
+315,2,KENNETH,GOODEN,KENNETH.GOODEN@sakilacustomer.org,0,2006-02-14 22:04:37,Tel Aviv,Bat Yam,Israel
+316,1,STEVEN,CURLEY,STEVEN.CURLEY@sakilacustomer.org,1,2006-02-14 22:04:37,Maharashtra,Miraj,India
+317,2,EDWARD,BAUGH,EDWARD.BAUGH@sakilacustomer.org,1,2006-02-14 22:04:37,Streymoyar,Trshavn,Faroe Islands
+318,1,BRIAN,WYMAN,BRIAN.WYMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Kujawsko-Pomorskie,Bydgoszcz,Poland
+319,2,RONALD,WEINER,RONALD.WEINER@sakilacustomer.org,1,2006-02-14 22:04:37,Mxico,San Felipe del Progreso,Mexico
+320,2,ANTHONY,SCHWAB,ANTHONY.SCHWAB@sakilacustomer.org,1,2006-02-14 22:04:37,Tutuila,Tafuna,American Samoa
+321,1,KEVIN,SCHULER,KEVIN.SCHULER@sakilacustomer.org,1,2006-02-14 22:04:37,Central,Birgunj,Nepal
+322,1,JASON,MORRISSEY,JASON.MORRISSEY@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Baha Blanca,Argentina
+323,2,MATTHEW,MAHAN,MATTHEW.MAHAN@sakilacustomer.org,1,2006-02-14 22:04:37,Morelos,Cuautla,Mexico
+324,2,GARY,COY,GARY.COY@sakilacustomer.org,1,2006-02-14 22:04:37,Henan,Yuzhou,China
+325,1,TIMOTHY,BUNN,TIMOTHY.BUNN@sakilacustomer.org,1,2006-02-14 22:04:37,Distrito Federal,Braslia,Brazil
+326,1,JOSE,ANDREW,JOSE.ANDREW@sakilacustomer.org,1,2006-02-14 22:04:37,St George,Kingstown,Saint Vincent and the Grenadines
+327,2,LARRY,THRASHER,LARRY.THRASHER@sakilacustomer.org,1,2006-02-14 22:04:37,Adana,Adana,Turkey
+328,2,JEFFREY,SPEAR,JEFFREY.SPEAR@sakilacustomer.org,1,2006-02-14 22:04:37,West Java,Ciparay,Indonesia
+329,2,FRANK,WAGGONER,FRANK.WAGGONER@sakilacustomer.org,1,2006-02-14 22:04:37,Dhaka,Jamalpur,Bangladesh
+330,1,SCOTT,SHELLEY,SCOTT.SHELLEY@sakilacustomer.org,1,2006-02-14 22:04:37,Illinois,Aurora,United States
+331,1,ERIC,ROBERT,ERIC.ROBERT@sakilacustomer.org,1,2006-02-14 22:04:37,Santa F,Santa F,Argentina
+332,1,STEPHEN,QUALLS,STEPHEN.QUALLS@sakilacustomer.org,1,2006-02-14 22:04:37,Dhaka,Dhaka,Bangladesh
+333,2,ANDREW,PURDY,ANDREW.PURDY@sakilacustomer.org,1,2006-02-14 22:04:37,Baki,Baku,Azerbaijan
+334,2,RAYMOND,MCWHORTER,RAYMOND.MCWHORTER@sakilacustomer.org,1,2006-02-14 22:04:37,Sumqayit,Sumqayit,Azerbaijan
+335,1,GREGORY,MAULDIN,GREGORY.MAULDIN@sakilacustomer.org,1,2006-02-14 22:04:37,Sousse,Sousse,Tunisia
+336,1,JOSHUA,MARK,JOSHUA.MARK@sakilacustomer.org,1,2006-02-14 22:04:37,Uttar Pradesh,Rampur,India
+337,1,JERRY,JORDON,JERRY.JORDON@sakilacustomer.org,1,2006-02-14 22:04:37,Hiroshima,Onomichi,Japan
+338,1,DENNIS,GILMAN,DENNIS.GILMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Western Cape,Paarl,South Africa
+339,2,WALTER,PERRYMAN,WALTER.PERRYMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Henan,Xinxiang,China
+340,1,PATRICK,NEWSOM,PATRICK.NEWSOM@sakilacustomer.org,1,2006-02-14 22:04:37,Hanoi,Hanoi,Vietnam
+341,1,PETER,MENARD,PETER.MENARD@sakilacustomer.org,1,2006-02-14 22:04:37,Gelderland,Ede,Netherlands
+342,1,HAROLD,MARTINO,HAROLD.MARTINO@sakilacustomer.org,1,2006-02-14 22:04:37,Roraima,Boa Vista,Brazil
+343,1,DOUGLAS,GRAF,DOUGLAS.GRAF@sakilacustomer.org,1,2006-02-14 22:04:37,Baja California,Mexicali,Mexico
+344,1,HENRY,BILLINGSLEY,HENRY.BILLINGSLEY@sakilacustomer.org,1,2006-02-14 22:04:37,Tongatapu,Nukualofa,Tonga
+345,1,CARL,ARTIS,CARL.ARTIS@sakilacustomer.org,1,2006-02-14 22:04:37,Central,San Lorenzo,Paraguay
+346,1,ARTHUR,SIMPKINS,ARTHUR.SIMPKINS@sakilacustomer.org,1,2006-02-14 22:04:37,Adygea,Maikop,Russian Federation
+347,2,RYAN,SALISBURY,RYAN.SALISBURY@sakilacustomer.org,1,2006-02-14 22:04:37,Daugavpils,Daugavpils,Latvia
+348,2,ROGER,QUINTANILLA,ROGER.QUINTANILLA@sakilacustomer.org,1,2006-02-14 22:04:37,Taipei,Hsichuh,Taiwan
+349,2,JOE,GILLILAND,JOE.GILLILAND@sakilacustomer.org,1,2006-02-14 22:04:37,Southern Tagalog,Imus,Philippines
+350,1,JUAN,FRALEY,JUAN.FRALEY@sakilacustomer.org,1,2006-02-14 22:04:37,Tuvassia,Teboksary,Russian Federation
+351,1,JACK,FOUST,JACK.FOUST@sakilacustomer.org,1,2006-02-14 22:04:37,Krasnojarsk,Zeleznogorsk,Russian Federation
+352,1,ALBERT,CROUSE,ALBERT.CROUSE@sakilacustomer.org,1,2006-02-14 22:04:37,Nord-Ouest,Bamenda,Cameroon
+353,1,JONATHAN,SCARBOROUGH,JONATHAN.SCARBOROUGH@sakilacustomer.org,1,2006-02-14 22:04:37,Hidalgo,Pachuca de Soto,Mexico
+354,2,JUSTIN,NGO,JUSTIN.NGO@sakilacustomer.org,1,2006-02-14 22:04:37,So Paulo,Santo Andr,Brazil
+355,2,TERRY,GRISSOM,TERRY.GRISSOM@sakilacustomer.org,1,2006-02-14 22:04:37,Shimane,Matsue,Japan
+356,2,GERALD,FULTZ,GERALD.FULTZ@sakilacustomer.org,1,2006-02-14 22:04:37,Madhya Pradesh,Satna,India
+357,1,KEITH,RICO,KEITH.RICO@sakilacustomer.org,1,2006-02-14 22:04:37,Bratislava,Bratislava,Slovakia
+358,2,SAMUEL,MARLOW,SAMUEL.MARLOW@sakilacustomer.org,1,2006-02-14 22:04:37,Jharkhand,Ranchi,India
+359,2,WILLIE,MARKHAM,WILLIE.MARKHAM@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Almirante Brown,Argentina
+360,2,RALPH,MADRIGAL,RALPH.MADRIGAL@sakilacustomer.org,1,2006-02-14 22:04:37,Arecibo,Arecibo,Puerto Rico
+361,2,LAWRENCE,LAWTON,LAWRENCE.LAWTON@sakilacustomer.org,1,2006-02-14 22:04:37,Centre,Yaound,Cameroon
+362,1,NICHOLAS,BARFIELD,NICHOLAS.BARFIELD@sakilacustomer.org,1,2006-02-14 22:04:37,Par,Belm,Brazil
+363,2,ROY,WHITING,ROY.WHITING@sakilacustomer.org,1,2006-02-14 22:04:37,Central,Nyeri,Kenya
+364,1,BENJAMIN,VARNEY,BENJAMIN.VARNEY@sakilacustomer.org,1,2006-02-14 22:04:37,Jalisco,Guadalajara,Mexico
+365,2,BRUCE,SCHWARZ,BRUCE.SCHWARZ@sakilacustomer.org,1,2006-02-14 22:04:37,Okinawa,Okinawa,Japan
+366,1,BRANDON,HUEY,BRANDON.HUEY@sakilacustomer.org,1,2006-02-14 22:04:37,Balikesir,Balikesir,Turkey
+367,1,ADAM,GOOCH,ADAM.GOOCH@sakilacustomer.org,1,2006-02-14 22:04:37,Andhra Pradesh,Adoni,India
+368,1,HARRY,ARCE,HARRY.ARCE@sakilacustomer.org,0,2006-02-14 22:04:37,Esfahan,Najafabad,Iran
+369,2,FRED,WHEAT,FRED.WHEAT@sakilacustomer.org,1,2006-02-14 22:04:37,Chihuahua,Jurez,Mexico
+370,2,WAYNE,TRUONG,WAYNE.TRUONG@sakilacustomer.org,1,2006-02-14 22:04:37,Karnataka,Gulbarga,India
+371,1,BILLY,POULIN,BILLY.POULIN@sakilacustomer.org,1,2006-02-14 22:04:37,Southern Tagalog,Cabuyao,Philippines
+372,2,STEVE,MACKENZIE,STEVE.MACKENZIE@sakilacustomer.org,1,2006-02-14 22:04:37,East Java,Probolinggo,Indonesia
+373,1,LOUIS,LEONE,LOUIS.LEONE@sakilacustomer.org,1,2006-02-14 22:04:37,Southern Tagalog,Tanauan,Philippines
+374,2,JEREMY,HURTADO,JEREMY.HURTADO@sakilacustomer.org,1,2006-02-14 22:04:37,Pernambuco,Vitria de Santo Anto,Brazil
+375,2,AARON,SELBY,AARON.SELBY@sakilacustomer.org,1,2006-02-14 22:04:37,East Kasai,Mwene-Ditu,"Congo, The Democratic Republic of the"
+376,1,RANDY,GAITHER,RANDY.GAITHER@sakilacustomer.org,1,2006-02-14 22:04:37,Kurgan,Kurgan,Russian Federation
+377,1,HOWARD,FORTNER,HOWARD.FORTNER@sakilacustomer.org,1,2006-02-14 22:04:37,Kermanshah,Kermanshah,Iran
+378,1,EUGENE,CULPEPPER,EUGENE.CULPEPPER@sakilacustomer.org,1,2006-02-14 22:04:37,Guangdong,Shenzhen,China
+379,1,CARLOS,COUGHLIN,CARLOS.COUGHLIN@sakilacustomer.org,1,2006-02-14 22:04:37,Gujarat,Bhavnagar,India
+380,1,RUSSELL,BRINSON,RUSSELL.BRINSON@sakilacustomer.org,1,2006-02-14 22:04:37,Slaskie,Tychy,Poland
+381,2,BOBBY,BOUDREAU,BOBBY.BOUDREAU@sakilacustomer.org,1,2006-02-14 22:04:37,,South Hill,Anguilla
+382,2,VICTOR,BARKLEY,VICTOR.BARKLEY@sakilacustomer.org,1,2006-02-14 22:04:37,New Hampshire,Manchester,United States
+383,1,MARTIN,BALES,MARTIN.BALES@sakilacustomer.org,1,2006-02-14 22:04:37,Namibe,Namibe,Angola
+384,2,ERNEST,STEPP,ERNEST.STEPP@sakilacustomer.org,1,2006-02-14 22:04:37,Jiangsu,Huaian,China
+385,1,PHILLIP,HOLM,PHILLIP.HOLM@sakilacustomer.org,1,2006-02-14 22:04:37,Ibaragi,Tama,Japan
+386,1,TODD,TAN,TODD.TAN@sakilacustomer.org,1,2006-02-14 22:04:37,Hmelnytskyi,Kamjanets-Podilskyi,Ukraine
+387,2,JESSE,SCHILLING,JESSE.SCHILLING@sakilacustomer.org,1,2006-02-14 22:04:37,Shaba,Lubumbashi,"Congo, The Democratic Republic of the"
+388,2,CRAIG,MORRELL,CRAIG.MORRELL@sakilacustomer.org,1,2006-02-14 22:04:37,Southern Tagalog,Cavite,Philippines
+389,1,ALAN,KAHN,ALAN.KAHN@sakilacustomer.org,1,2006-02-14 22:04:37,Sichuan,Emeishan,China
+390,1,SHAWN,HEATON,SHAWN.HEATON@sakilacustomer.org,1,2006-02-14 22:04:37,Nakhon Sawan,Nakhon Sawan,Thailand
+391,1,CLARENCE,GAMEZ,CLARENCE.GAMEZ@sakilacustomer.org,1,2006-02-14 22:04:37,Osaka,Izumisano,Japan
+392,2,SEAN,DOUGLASS,SEAN.DOUGLASS@sakilacustomer.org,1,2006-02-14 22:04:37,Addis Abeba,Addis Abeba,Ethiopia
+393,1,PHILIP,CAUSEY,PHILIP.CAUSEY@sakilacustomer.org,1,2006-02-14 22:04:37,Moskova,Korolev,Russian Federation
+394,2,CHRIS,BROTHERS,CHRIS.BROTHERS@sakilacustomer.org,1,2006-02-14 22:04:37,Asturia,Gijn,Spain
+395,2,JOHNNY,TURPIN,JOHNNY.TURPIN@sakilacustomer.org,1,2006-02-14 22:04:37,al-Qadarif,al-Qadarif,Sudan
+396,1,EARL,SHANKS,EARL.SHANKS@sakilacustomer.org,1,2006-02-14 22:04:37,Saitama,Iwatsuki,Japan
+397,1,JIMMY,SCHRADER,JIMMY.SCHRADER@sakilacustomer.org,1,2006-02-14 22:04:37,Krasnojarsk,Atinsk,Russian Federation
+398,1,ANTONIO,MEEK,ANTONIO.MEEK@sakilacustomer.org,1,2006-02-14 22:04:37,Rio Grande do Sul,Bag,Brazil
+399,1,DANNY,ISOM,DANNY.ISOM@sakilacustomer.org,1,2006-02-14 22:04:37,Punjab,Okara,Pakistan
+400,2,BRYAN,HARDISON,BRYAN.HARDISON@sakilacustomer.org,1,2006-02-14 22:04:37,Texas,Dallas,United States
+401,2,TONY,CARRANZA,TONY.CARRANZA@sakilacustomer.org,1,2006-02-14 22:04:37,Fukushima,Koriyama,Japan
+402,1,LUIS,YANEZ,LUIS.YANEZ@sakilacustomer.org,1,2006-02-14 22:04:37,Bretagne,Brest,France
+403,1,MIKE,WAY,MIKE.WAY@sakilacustomer.org,1,2006-02-14 22:04:37,Tamil Nadu,Valparai,India
+404,2,STANLEY,SCROGGINS,STANLEY.SCROGGINS@sakilacustomer.org,1,2006-02-14 22:04:37,Saitama,Omiya,Japan
+405,1,LEONARD,SCHOFIELD,LEONARD.SCHOFIELD@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Tandil,Argentina
+406,1,NATHAN,RUNYON,NATHAN.RUNYON@sakilacustomer.org,0,2006-02-14 22:04:37,St Thomas,Charlotte Amalie,"Virgin Islands, U.S."
+407,1,DALE,RATCLIFF,DALE.RATCLIFF@sakilacustomer.org,1,2006-02-14 22:04:37,North West,Rustenburg,South Africa
+408,1,MANUEL,MURRELL,MANUEL.MURRELL@sakilacustomer.org,1,2006-02-14 22:04:37,Northern,Jaffna,Sri Lanka
+409,2,RODNEY,MOELLER,RODNEY.MOELLER@sakilacustomer.org,1,2006-02-14 22:04:37,Bauchi & Gombe,Deba Habe,Nigeria
+410,2,CURTIS,IRBY,CURTIS.IRBY@sakilacustomer.org,1,2006-02-14 22:04:37,Ontario,Richmond Hill,Canada
+411,1,NORMAN,CURRIER,NORMAN.CURRIER@sakilacustomer.org,1,2006-02-14 22:04:37,West Java,Cianjur,Indonesia
+412,2,ALLEN,BUTTERFIELD,ALLEN.BUTTERFIELD@sakilacustomer.org,1,2006-02-14 22:04:37,Punjab,Hoshiarpur,India
+413,2,MARVIN,YEE,MARVIN.YEE@sakilacustomer.org,1,2006-02-14 22:04:37,West Bengali,Berhampore (Baharampur),India
+414,1,VINCENT,RALSTON,VINCENT.RALSTON@sakilacustomer.org,1,2006-02-14 22:04:37,Guanajuato,Allende,Mexico
+415,1,GLENN,PULLEN,GLENN.PULLEN@sakilacustomer.org,1,2006-02-14 22:04:37,Utrecht,Amersfoort,Netherlands
+416,2,JEFFERY,PINSON,JEFFERY.PINSON@sakilacustomer.org,1,2006-02-14 22:04:37,Sind,Dadu,Pakistan
+417,1,TRAVIS,ESTEP,TRAVIS.ESTEP@sakilacustomer.org,1,2006-02-14 22:04:37,al-Sharqiya,al-Qatif,Saudi Arabia
+418,2,JEFF,EAST,JEFF.EAST@sakilacustomer.org,1,2006-02-14 22:04:37,Puerto Plata,San Felipe de Puerto Plata,Dominican Republic
+419,1,CHAD,CARBONE,CHAD.CARBONE@sakilacustomer.org,1,2006-02-14 22:04:37,Bihar,Katihar,India
+420,1,JACOB,LANCE,JACOB.LANCE@sakilacustomer.org,1,2006-02-14 22:04:37,California,El Monte,United States
+421,1,LEE,HAWKS,LEE.HAWKS@sakilacustomer.org,1,2006-02-14 22:04:37,Tamil Nadu,Pudukkottai,India
+422,1,MELVIN,ELLINGTON,MELVIN.ELLINGTON@sakilacustomer.org,1,2006-02-14 22:04:37,Hubei,Laohekou,China
+423,2,ALFRED,CASILLAS,ALFRED.CASILLAS@sakilacustomer.org,1,2006-02-14 22:04:37,Sawhaj,Sawhaj,Egypt
+424,2,KYLE,SPURLOCK,KYLE.SPURLOCK@sakilacustomer.org,1,2006-02-14 22:04:37,Guangdong,Shanwei,China
+425,2,FRANCIS,SIKES,FRANCIS.SIKES@sakilacustomer.org,1,2006-02-14 22:04:37,Oaxaca,San Juan Bautista Tuxtepec,Mexico
+426,1,BRADLEY,MOTLEY,BRADLEY.MOTLEY@sakilacustomer.org,1,2006-02-14 22:04:37,Jharkhand,Purnea (Purnia),India
+427,2,JESUS,MCCARTNEY,JESUS.MCCARTNEY@sakilacustomer.org,1,2006-02-14 22:04:37,So Paulo,Guaruj,Brazil
+428,2,HERBERT,KRUGER,HERBERT.KRUGER@sakilacustomer.org,1,2006-02-14 22:04:37,Komi,Syktyvkar,Russian Federation
+429,2,FREDERICK,ISBELL,FREDERICK.ISBELL@sakilacustomer.org,1,2006-02-14 22:04:37,Okayama,Tsuyama,Japan
+430,1,RAY,HOULE,RAY.HOULE@sakilacustomer.org,1,2006-02-14 22:04:37,Nizni Novgorod,Dzerzinsk,Russian Federation
+431,2,JOEL,FRANCISCO,JOEL.FRANCISCO@sakilacustomer.org,1,2006-02-14 22:04:37,Chuquisaca,Sucre,Bolivia
+432,1,EDWIN,BURK,EDWIN.BURK@sakilacustomer.org,1,2006-02-14 22:04:37,KwaZulu-Natal,Newcastle,South Africa
+433,1,DON,BONE,DON.BONE@sakilacustomer.org,1,2006-02-14 22:04:37,Nampula,Naala-Porto,Mozambique
+434,1,EDDIE,TOMLIN,EDDIE.TOMLIN@sakilacustomer.org,1,2006-02-14 22:04:37,Northern Mindanao,Ozamis,Philippines
+435,2,RICKY,SHELBY,RICKY.SHELBY@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Junan,China
+436,1,TROY,QUIGLEY,TROY.QUIGLEY@sakilacustomer.org,1,2006-02-14 22:04:37,British Colombia,Vancouver,Canada
+437,2,RANDALL,NEUMANN,RANDALL.NEUMANN@sakilacustomer.org,1,2006-02-14 22:04:37,La Romana,La Romana,Dominican Republic
+438,1,BARRY,LOVELACE,BARRY.LOVELACE@sakilacustomer.org,1,2006-02-14 22:04:37,Copperbelt,Kitwe,Zambia
+439,2,ALEXANDER,FENNELL,ALEXANDER.FENNELL@sakilacustomer.org,1,2006-02-14 22:04:37,Lombardia,Bergamo,Italy
+440,1,BERNARD,COLBY,BERNARD.COLBY@sakilacustomer.org,1,2006-02-14 22:04:37,Maharashtra,Dhule (Dhulia),India
+441,1,MARIO,CHEATHAM,MARIO.CHEATHAM@sakilacustomer.org,1,2006-02-14 22:04:37,Batna,Batna,Algeria
+442,1,LEROY,BUSTAMANTE,LEROY.BUSTAMANTE@sakilacustomer.org,1,2006-02-14 22:04:37,Inner Mongolia,Tongliao,China
+443,2,FRANCISCO,SKIDMORE,FRANCISCO.SKIDMORE@sakilacustomer.org,1,2006-02-14 22:04:37,Rio Grande do Sul,So Leopoldo,Brazil
+444,2,MARCUS,HIDALGO,MARCUS.HIDALGO@sakilacustomer.org,1,2006-02-14 22:04:37,Tartumaa,Tartu,Estonia
+445,1,MICHEAL,FORMAN,MICHEAL.FORMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Escobar,Argentina
+446,2,THEODORE,CULP,THEODORE.CULP@sakilacustomer.org,0,2006-02-14 22:04:37,West Bengali,Uluberia,India
+447,1,CLIFFORD,BOWENS,CLIFFORD.BOWENS@sakilacustomer.org,1,2006-02-14 22:04:37,Tatarstan,Nabereznyje Telny,Russian Federation
+448,1,MIGUEL,BETANCOURT,MIGUEL.BETANCOURT@sakilacustomer.org,1,2006-02-14 22:04:37,Baijeri,Erlangen,Germany
+449,2,OSCAR,AQUINO,OSCAR.AQUINO@sakilacustomer.org,1,2006-02-14 22:04:37,Kerman,Sirjan,Iran
+450,1,JAY,ROBB,JAY.ROBB@sakilacustomer.org,1,2006-02-14 22:04:37,Central Java,Surakarta,Indonesia
+451,1,JIM,REA,JIM.REA@sakilacustomer.org,1,2006-02-14 22:04:37,Sinaloa,El Fuerte,Mexico
+452,1,TOM,MILNER,TOM.MILNER@sakilacustomer.org,1,2006-02-14 22:04:37,Abu Dhabi,Abu Dhabi,United Arab Emirates
+453,1,CALVIN,MARTEL,CALVIN.MARTEL@sakilacustomer.org,1,2006-02-14 22:04:37,Zulia,Maracabo,Venezuela
+454,2,ALEX,GRESHAM,ALEX.GRESHAM@sakilacustomer.org,1,2006-02-14 22:04:37,Michoacn de Ocampo,Uruapan,Mexico
+455,2,JON,WILES,JON.WILES@sakilacustomer.org,1,2006-02-14 22:04:37,La Paz,El Alto,Bolivia
+456,2,RONNIE,RICKETTS,RONNIE.RICKETTS@sakilacustomer.org,1,2006-02-14 22:04:37,Ziguinchor,Ziguinchor,Senegal
+457,2,BILL,GAVIN,BILL.GAVIN@sakilacustomer.org,1,2006-02-14 22:04:37,Illinois,Rockford,United States
+458,1,LLOYD,DOWD,LLOYD.DOWD@sakilacustomer.org,1,2006-02-14 22:04:37,Central Java,Tegal,Indonesia
+459,1,TOMMY,COLLAZO,TOMMY.COLLAZO@sakilacustomer.org,1,2006-02-14 22:04:37,Esfahan,Qomsheh,Iran
+460,1,LEON,BOSTIC,LEON.BOSTIC@sakilacustomer.org,1,2006-02-14 22:04:37,Caquet,Florencia,Colombia
+461,1,DEREK,BLAKELY,DEREK.BLAKELY@sakilacustomer.org,1,2006-02-14 22:04:37,Northern Mindanao,Gingoog,Philippines
+462,2,WARREN,SHERROD,WARREN.SHERROD@sakilacustomer.org,1,2006-02-14 22:04:37,Irkutsk,Usolje-Sibirskoje,Russian Federation
+463,2,DARRELL,POWER,DARRELL.POWER@sakilacustomer.org,1,2006-02-14 22:04:37,Nova Scotia,Halifax,Canada
+464,1,JEROME,KENYON,JEROME.KENYON@sakilacustomer.org,1,2006-02-14 22:04:37,OHiggins,Rancagua,Chile
+465,1,FLOYD,GANDY,FLOYD.GANDY@sakilacustomer.org,1,2006-02-14 22:04:37,Jalisco,Zapopan,Mexico
+466,1,LEO,EBERT,LEO.EBERT@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Dongying,China
+467,2,ALVIN,DELOACH,ALVIN.DELOACH@sakilacustomer.org,1,2006-02-14 22:04:37,Chihuahua,Cuauhtmoc,Mexico
+468,1,TIM,CARY,TIM.CARY@sakilacustomer.org,1,2006-02-14 22:04:37,Karnataka,Bijapur,India
+469,2,WESLEY,BULL,WESLEY.BULL@sakilacustomer.org,1,2006-02-14 22:04:37,Galicia,Ourense (Orense),Spain
+470,1,GORDON,ALLARD,GORDON.ALLARD@sakilacustomer.org,1,2006-02-14 22:04:37,Hodeida,Hodeida,Yemen
+471,1,DEAN,SAUER,DEAN.SAUER@sakilacustomer.org,1,2006-02-14 22:04:37,Gauteng,Johannesburg,South Africa
+472,1,GREG,ROBINS,GREG.ROBINS@sakilacustomer.org,1,2006-02-14 22:04:37,Nam Ha,Nam Dinh,Vietnam
+473,2,JORGE,OLIVARES,JORGE.OLIVARES@sakilacustomer.org,1,2006-02-14 22:04:37,Aceh,Lhokseumawe,Indonesia
+474,2,DUSTIN,GILLETTE,DUSTIN.GILLETTE@sakilacustomer.org,1,2006-02-14 22:04:37,Drenthe,Emmen,Netherlands
+475,2,PEDRO,CHESTNUT,PEDRO.CHESTNUT@sakilacustomer.org,1,2006-02-14 22:04:37,Sumy,ostka,Ukraine
+476,1,DERRICK,BOURQUE,DERRICK.BOURQUE@sakilacustomer.org,1,2006-02-14 22:04:37,Qubec,Gatineau,Canada
+477,1,DAN,PAINE,DAN.PAINE@sakilacustomer.org,1,2006-02-14 22:04:37,England,Stockport,United Kingdom
+478,1,LEWIS,LYMAN,LEWIS.LYMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Ha Darom,Ashqelon,Israel
+479,1,ZACHARY,HITE,ZACHARY.HITE@sakilacustomer.org,1,2006-02-14 22:04:37,Ohio,Akron,United States
+480,1,COREY,HAUSER,COREY.HAUSER@sakilacustomer.org,1,2006-02-14 22:04:37,Gaziantep,Gaziantep,Turkey
+481,1,HERMAN,DEVORE,HERMAN.DEVORE@sakilacustomer.org,1,2006-02-14 22:04:37,Mwanza,Mwanza,Tanzania
+482,1,MAURICE,CRAWLEY,MAURICE.CRAWLEY@sakilacustomer.org,0,2006-02-14 22:04:37,Veracruz,Coatzacoalcos,Mexico
+483,2,VERNON,CHAPA,VERNON.CHAPA@sakilacustomer.org,1,2006-02-14 22:04:37,Denizli,Denizli,Turkey
+484,1,ROBERTO,VU,ROBERTO.VU@sakilacustomer.org,1,2006-02-14 22:04:37,Ningxia,Yinchuan,China
+485,1,CLYDE,TOBIAS,CLYDE.TOBIAS@sakilacustomer.org,1,2006-02-14 22:04:37,Guangdong,Shaoguan,China
+486,1,GLEN,TALBERT,GLEN.TALBERT@sakilacustomer.org,1,2006-02-14 22:04:37,Coahuila de Zaragoza,Acua,Mexico
+487,2,HECTOR,POINDEXTER,HECTOR.POINDEXTER@sakilacustomer.org,1,2006-02-14 22:04:37,Stavropol,Pjatigorsk,Russian Federation
+488,2,SHANE,MILLARD,SHANE.MILLARD@sakilacustomer.org,1,2006-02-14 22:04:37,Baja California Sur,La Paz,Mexico
+489,1,RICARDO,MEADOR,RICARDO.MEADOR@sakilacustomer.org,1,2006-02-14 22:04:37,Okayama,Okayama,Japan
+490,1,SAM,MCDUFFIE,SAM.MCDUFFIE@sakilacustomer.org,1,2006-02-14 22:04:37,Boyac,Sogamoso,Colombia
+491,2,RICK,MATTOX,RICK.MATTOX@sakilacustomer.org,1,2006-02-14 22:04:37,al-Daqahliya,Mit Ghamr,Egypt
+492,2,LESTER,KRAUS,LESTER.KRAUS@sakilacustomer.org,1,2006-02-14 22:04:37,West Bengali,Kanchrapara,India
+493,1,BRENT,HARKINS,BRENT.HARKINS@sakilacustomer.org,1,2006-02-14 22:04:37,Istanbul,Sultanbeyli,Turkey
+494,2,RAMON,CHOATE,RAMON.CHOATE@sakilacustomer.org,1,2006-02-14 22:04:37,Chimborazo,Robamba,Ecuador
+495,2,CHARLIE,BESS,CHARLIE.BESS@sakilacustomer.org,1,2006-02-14 22:04:37,Gansu,Baiyin,China
+496,2,TYLER,WREN,TYLER.WREN@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Rizhao,China
+497,2,GILBERT,SLEDGE,GILBERT.SLEDGE@sakilacustomer.org,1,2006-02-14 22:04:37,England,York,United Kingdom
+498,1,GENE,SANBORN,GENE.SANBORN@sakilacustomer.org,1,2006-02-14 22:04:37,Zufar,Salala,Oman
+499,2,MARC,OUTLAW,MARC.OUTLAW@sakilacustomer.org,1,2006-02-14 22:04:37,Apulia,Brindisi,Italy
+500,1,REGINALD,KINDER,REGINALD.KINDER@sakilacustomer.org,1,2006-02-14 22:04:37,East Java,Madiun,Indonesia
+501,1,RUBEN,GEARY,RUBEN.GEARY@sakilacustomer.org,1,2006-02-14 22:04:37,Lubelskie,Lublin,Poland
+502,1,BRETT,CORNWELL,BRETT.CORNWELL@sakilacustomer.org,1,2006-02-14 22:04:37,West Bengali,Siliguri (Shiliguri),India
+503,1,ANGEL,BARCLAY,ANGEL.BARCLAY@sakilacustomer.org,1,2006-02-14 22:04:37,Nagano,Ueda,Japan
+504,1,NATHANIEL,ADAM,NATHANIEL.ADAM@sakilacustomer.org,1,2006-02-14 22:04:37,Illinois,Joliet,United States
+505,1,RAFAEL,ABNEY,RAFAEL.ABNEY@sakilacustomer.org,1,2006-02-14 22:04:37,Central Luzon,Talavera,Philippines
+506,2,LESLIE,SEWARD,LESLIE.SEWARD@sakilacustomer.org,1,2006-02-14 22:04:37,Kalimantan Barat,Pontianak,Indonesia
+507,2,EDGAR,RHOADS,EDGAR.RHOADS@sakilacustomer.org,1,2006-02-14 22:04:37,Eskisehir,Eskisehir,Turkey
+508,2,MILTON,HOWLAND,MILTON.HOWLAND@sakilacustomer.org,1,2006-02-14 22:04:37,Andhra Pradesh,Vijayawada,India
+509,1,RAUL,FORTIER,RAUL.FORTIER@sakilacustomer.org,1,2006-02-14 22:04:37,Bihar,Chapra,India
+510,2,BEN,EASTER,BEN.EASTER@sakilacustomer.org,0,2006-02-14 22:04:37,Volgograd,Kamyin,Russian Federation
+511,1,CHESTER,BENNER,CHESTER.BENNER@sakilacustomer.org,1,2006-02-14 22:04:37,Heilongjiang,Suihua,China
+512,1,CECIL,VINES,CECIL.VINES@sakilacustomer.org,1,2006-02-14 22:04:37,Ontario,London,United Kingdom
+513,2,DUANE,TUBBS,DUANE.TUBBS@sakilacustomer.org,1,2006-02-14 22:04:37,,Yangor,Nauru
+514,2,FRANKLIN,TROUTMAN,FRANKLIN.TROUTMAN@sakilacustomer.org,1,2006-02-14 22:04:37,Hubei,Zaoyang,China
+515,1,ANDRE,RAPP,ANDRE.RAPP@sakilacustomer.org,1,2006-02-14 22:04:37,Coquimbo,Coquimbo,Chile
+516,2,ELMER,NOE,ELMER.NOE@sakilacustomer.org,1,2006-02-14 22:04:37,Battambang,Battambang,Cambodia
+517,2,BRAD,MCCURDY,BRAD.MCCURDY@sakilacustomer.org,1,2006-02-14 22:04:37,Taipei,Chungho,Taiwan
+518,1,GABRIEL,HARDER,GABRIEL.HARDER@sakilacustomer.org,1,2006-02-14 22:04:37,Sivas,Sivas,Turkey
+519,2,RON,DELUCA,RON.DELUCA@sakilacustomer.org,1,2006-02-14 22:04:37,Gumma,Isesaki,Japan
+520,2,MITCHELL,WESTMORELAND,MITCHELL.WESTMORELAND@sakilacustomer.org,1,2006-02-14 22:04:37,Khanh Hoa,Nha Trang,Vietnam
+521,2,ROLAND,SOUTH,ROLAND.SOUTH@sakilacustomer.org,1,2006-02-14 22:04:37,Liaoning,Yingkou,China
+522,2,ARNOLD,HAVENS,ARNOLD.HAVENS@sakilacustomer.org,1,2006-02-14 22:04:37,Southern Tagalog,Santa Rosa,Philippines
+523,1,HARVEY,GUAJARDO,HARVEY.GUAJARDO@sakilacustomer.org,1,2006-02-14 22:04:37,Nghe An,Vinh,Vietnam
+524,1,JARED,ELY,JARED.ELY@sakilacustomer.org,1,2006-02-14 22:04:37,West Java,Purwakarta,Indonesia
+525,2,ADRIAN,CLARY,ADRIAN.CLARY@sakilacustomer.org,1,2006-02-14 22:04:37,Friuli-Venezia Giuli,Udine,Italy
+526,2,KARL,SEAL,KARL.SEAL@sakilacustomer.org,1,2006-02-14 22:04:37,Florida,Cape Coral,United States
+527,1,CORY,MEEHAN,CORY.MEEHAN@sakilacustomer.org,1,2006-02-14 22:04:37,Mogiljov,Mogiljov,Belarus
+528,1,CLAUDE,HERZOG,CLAUDE.HERZOG@sakilacustomer.org,1,2006-02-14 22:04:37,Benguela,Benguela,Angola
+529,2,ERIK,GUILLEN,ERIK.GUILLEN@sakilacustomer.org,1,2006-02-14 22:04:37,Andhra Pradesh,Bhimavaram,India
+530,2,DARRYL,ASHCRAFT,DARRYL.ASHCRAFT@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Ezeiza,Argentina
+531,2,JAMIE,WAUGH,JAMIE.WAUGH@sakilacustomer.org,1,2006-02-14 22:04:37,Mie,Kuwana,Japan
+532,2,NEIL,RENNER,NEIL.RENNER@sakilacustomer.org,1,2006-02-14 22:04:37,Khanh Hoa,Cam Ranh,Vietnam
+533,1,JESSIE,MILAM,JESSIE.MILAM@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Binzhou,China
+534,1,CHRISTIAN,JUNG,CHRISTIAN.JUNG@sakilacustomer.org,0,2006-02-14 22:04:37,Uttar Pradesh,Amroha,India
+535,1,JAVIER,ELROD,JAVIER.ELROD@sakilacustomer.org,1,2006-02-14 22:04:37,Chari-Baguirmi,NDjamna,Chad
+536,2,FERNANDO,CHURCHILL,FERNANDO.CHURCHILL@sakilacustomer.org,1,2006-02-14 22:04:37,Kang-won,Tonghae,South Korea
+537,2,CLINTON,BUFORD,CLINTON.BUFORD@sakilacustomer.org,1,2006-02-14 22:04:37,Colorado,Aurora,United States
+538,2,TED,BREAUX,TED.BREAUX@sakilacustomer.org,1,2006-02-14 22:04:37,Jilin,Baicheng,China
+539,1,MATHEW,BOLIN,MATHEW.BOLIN@sakilacustomer.org,1,2006-02-14 22:04:37,Carabobo,Valencia,Venezuela
+540,1,TYRONE,ASHER,TYRONE.ASHER@sakilacustomer.org,1,2006-02-14 22:04:37,Ruse,Ruse,Bulgaria
+541,2,DARREN,WINDHAM,DARREN.WINDHAM@sakilacustomer.org,1,2006-02-14 22:04:37,Toscana,Livorno,Italy
+542,2,LONNIE,TIRADO,LONNIE.TIRADO@sakilacustomer.org,1,2006-02-14 22:04:37,Sumatera Selatan,Pangkal Pinang,Indonesia
+543,1,LANCE,PEMBERTON,LANCE.PEMBERTON@sakilacustomer.org,1,2006-02-14 22:04:37,Tadla-Azilal,Beni-Mellal,Morocco
+544,2,CODY,NOLEN,CODY.NOLEN@sakilacustomer.org,1,2006-02-14 22:04:37,So Paulo,So Bernardo do Campo,Brazil
+545,2,JULIO,NOLAND,JULIO.NOLAND@sakilacustomer.org,1,2006-02-14 22:04:37,Sumy,Konotop,Ukraine
+546,1,KELLY,KNOTT,KELLY.KNOTT@sakilacustomer.org,1,2006-02-14 22:04:37,Hainan,Sanya,China
+547,1,KURT,EMMONS,KURT.EMMONS@sakilacustomer.org,1,2006-02-14 22:04:37,Ishikawa,Kanazawa,Japan
+548,1,ALLAN,CORNISH,ALLAN.CORNISH@sakilacustomer.org,1,2006-02-14 22:04:37,Central Luzon,Tarlac,Philippines
+549,1,NELSON,CHRISTENSON,NELSON.CHRISTENSON@sakilacustomer.org,1,2006-02-14 22:04:37,Galicia,Santiago de Compostela,Spain
+550,2,GUY,BROWNLEE,GUY.BROWNLEE@sakilacustomer.org,1,2006-02-14 22:04:37,Zhejiang,Zhoushan,China
+551,2,CLAYTON,BARBEE,CLAYTON.BARBEE@sakilacustomer.org,1,2006-02-14 22:04:37,Rio Grande do Sul,Alvorada,Brazil
+552,2,HUGH,WALDROP,HUGH.WALDROP@sakilacustomer.org,1,2006-02-14 22:04:37,Zhejiang,Haining,China
+553,1,MAX,PITT,MAX.PITT@sakilacustomer.org,1,2006-02-14 22:04:37,Vojvodina,Novi Sad,Yugoslavia
+554,1,DWAYNE,OLVERA,DWAYNE.OLVERA@sakilacustomer.org,1,2006-02-14 22:04:37,Gujarat,Rajkot,India
+555,1,DWIGHT,LOMBARDI,DWIGHT.LOMBARDI@sakilacustomer.org,1,2006-02-14 22:04:37,KwaZulu-Natal,Chatsworth,South Africa
+556,2,ARMANDO,GRUBER,ARMANDO.GRUBER@sakilacustomer.org,1,2006-02-14 22:04:37,England,Southport,United Kingdom
+557,1,FELIX,GAFFNEY,FELIX.GAFFNEY@sakilacustomer.org,1,2006-02-14 22:04:37,Vilna,Vilnius,Lithuania
+558,1,JIMMIE,EGGLESTON,JIMMIE.EGGLESTON@sakilacustomer.org,0,2006-02-14 22:04:37,Dolnoslaskie,Wroclaw,Poland
+559,2,EVERETT,BANDA,EVERETT.BANDA@sakilacustomer.org,1,2006-02-14 22:04:37,al-Sharqiya,Bilbays,Egypt
+560,1,JORDAN,ARCHULETA,JORDAN.ARCHULETA@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Avellaneda,Argentina
+561,2,IAN,STILL,IAN.STILL@sakilacustomer.org,1,2006-02-14 22:04:37,Texas,Garland,United States
+562,1,WALLACE,SLONE,WALLACE.SLONE@sakilacustomer.org,1,2006-02-14 22:04:37,Sokoto & Kebbi & Zam,Sokoto,Nigeria
+563,2,KEN,PREWITT,KEN.PREWITT@sakilacustomer.org,1,2006-02-14 22:04:37,Bukarest,Bucuresti,Romania
+564,2,BOB,PFEIFFER,BOB.PFEIFFER@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Xintai,China
+565,2,JAIME,NETTLES,JAIME.NETTLES@sakilacustomer.org,1,2006-02-14 22:04:37,Huanuco,Hunuco,Peru
+566,1,CASEY,MENA,CASEY.MENA@sakilacustomer.org,1,2006-02-14 22:04:37,Tokat,Tokat,Turkey
+567,2,ALFREDO,MCADAMS,ALFREDO.MCADAMS@sakilacustomer.org,1,2006-02-14 22:04:37,Moskova,Serpuhov,Russian Federation
+568,2,ALBERTO,HENNING,ALBERTO.HENNING@sakilacustomer.org,1,2006-02-14 22:04:37,Anzotegui,Barcelona,Venezuela
+569,2,DAVE,GARDINER,DAVE.GARDINER@sakilacustomer.org,1,2006-02-14 22:04:37,Sichuan,Leshan,China
+570,2,IVAN,CROMWELL,IVAN.CROMWELL@sakilacustomer.org,1,2006-02-14 22:04:37,Coahuila de Zaragoza,Monclova,Mexico
+571,2,JOHNNIE,CHISHOLM,JOHNNIE.CHISHOLM@sakilacustomer.org,1,2006-02-14 22:04:37,Mazowieckie,Plock,Poland
+572,1,SIDNEY,BURLESON,SIDNEY.BURLESON@sakilacustomer.org,1,2006-02-14 22:04:37,Slaskie,Czestochowa,Poland
+573,1,BYRON,BOX,BYRON.BOX@sakilacustomer.org,1,2006-02-14 22:04:37,Qaraghandy,Zhezqazghan,Kazakstan
+574,2,JULIAN,VEST,JULIAN.VEST@sakilacustomer.org,1,2006-02-14 22:04:37,Tokyo-to,Akishima,Japan
+575,2,ISAAC,OGLESBY,ISAAC.OGLESBY@sakilacustomer.org,1,2006-02-14 22:04:37,Morelos,Cuernavaca,Mexico
+576,2,MORRIS,MCCARTER,MORRIS.MCCARTER@sakilacustomer.org,1,2006-02-14 22:04:37,Kaohsiung,Fengshan,Taiwan
+577,2,CLIFTON,MALCOLM,CLIFTON.MALCOLM@sakilacustomer.org,1,2006-02-14 22:04:37,Taipei,Tanshui,Taiwan
+578,2,WILLARD,LUMPKIN,WILLARD.LUMPKIN@sakilacustomer.org,1,2006-02-14 22:04:37,Campeche,Carmen,Mexico
+579,2,DARYL,LARUE,DARYL.LARUE@sakilacustomer.org,1,2006-02-14 22:04:37,Ninawa,Mosul,Iraq
+580,1,ROSS,GREY,ROSS.GREY@sakilacustomer.org,1,2006-02-14 22:04:37,Central Mindanao,Iligan,Philippines
+581,1,VIRGIL,WOFFORD,VIRGIL.WOFFORD@sakilacustomer.org,1,2006-02-14 22:04:37,Guerrero,Jos Azueta,Mexico
+582,2,ANDY,VANHORN,ANDY.VANHORN@sakilacustomer.org,1,2006-02-14 22:04:37,Hidalgo,Huejutla de Reyes,Mexico
+583,1,MARSHALL,THORN,MARSHALL.THORN@sakilacustomer.org,1,2006-02-14 22:04:37,England,Southampton,United Kingdom
+584,2,SALVADOR,TEEL,SALVADOR.TEEL@sakilacustomer.org,1,2006-02-14 22:04:37,Banjul,Banjul,Gambia
+585,1,PERRY,SWAFFORD,PERRY.SWAFFORD@sakilacustomer.org,1,2006-02-14 22:04:37,Buenos Aires,Quilmes,Argentina
+586,1,KIRK,STCLAIR,KIRK.STCLAIR@sakilacustomer.org,1,2006-02-14 22:04:37,Nantou,Tsaotun,Taiwan
+587,1,SERGIO,STANFIELD,SERGIO.STANFIELD@sakilacustomer.org,1,2006-02-14 22:04:37,Guanajuato,Celaya,Mexico
+588,1,MARION,OCAMPO,MARION.OCAMPO@sakilacustomer.org,1,2006-02-14 22:04:37,Shandong,Weifang,China
+589,1,TRACY,HERRMANN,TRACY.HERRMANN@sakilacustomer.org,1,2006-02-14 22:04:37,Loja,Loja,Ecuador
+590,2,SETH,HANNON,SETH.HANNON@sakilacustomer.org,1,2006-02-14 22:04:37,al-Manama,al-Manama,Bahrain
+591,1,KENT,ARSENAULT,KENT.ARSENAULT@sakilacustomer.org,1,2006-02-14 22:04:37,Minas Gerais,Juiz de Fora,Brazil
+592,1,TERRANCE,ROUSH,TERRANCE.ROUSH@sakilacustomer.org,0,2006-02-14 22:04:37,Fejr,Szkesfehrvr,Hungary
+593,2,RENE,MCALISTER,RENE.MCALISTER@sakilacustomer.org,1,2006-02-14 22:04:37,California,Garden Grove,United States
+594,1,EDUARDO,HIATT,EDUARDO.HIATT@sakilacustomer.org,1,2006-02-14 22:04:37,Inner Mongolia,Jining,China
+595,1,TERRENCE,GUNDERSON,TERRENCE.GUNDERSON@sakilacustomer.org,1,2006-02-14 22:04:37,Liaoning,Jinzhou,China
+596,1,ENRIQUE,FORSYTHE,ENRIQUE.FORSYTHE@sakilacustomer.org,1,2006-02-14 22:04:37,West Greece,Patras,Greece
+597,1,FREDDIE,DUGGAN,FREDDIE.DUGGAN@sakilacustomer.org,1,2006-02-14 22:04:37,Piura,Sullana,Peru
+598,1,WADE,DELVALLE,WADE.DELVALLE@sakilacustomer.org,1,2006-02-14 22:04:37,Vaud,Lausanne,Switzerland
+599,2,AUSTIN,CINTRON,AUSTIN.CINTRON@sakilacustomer.org,1,2006-02-14 22:04:37,Heilongjiang,Tieli,China

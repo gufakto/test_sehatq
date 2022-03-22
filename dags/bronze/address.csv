@@ -1,0 +1,604 @@
+address_id,district,city_id
+1,Alberta,300
+2,QLD,576
+3,Alberta,300
+4,QLD,576
+5,Nagasaki,463
+6,California,449
+7,Attika,38
+8,Mandalay,349
+9,Nantou,361
+10,Texas,295
+11,Central Serbia,280
+12,Hamilton,200
+13,Masqat,329
+14,Esfahan,162
+15,Kanagawa,440
+16,Haryana,582
+17,Osmaniye,384
+18,California,120
+19,Madhya Pradesh,76
+20,England,495
+21,Kalmykia,156
+22,Kaduna,252
+23,Northern Cape,267
+24,Nothwest Border Prov,327
+25,Dhaka,525
+26,Rabat-Sal-Zammour-Z,443
+27,Liepaja,303
+28,Crdoba,128
+29,Sind,472
+30,,121
+31,Southern Mindanao,138
+32,Bihar,346
+33,Yamaguchi,474
+34,Taipei,316
+35,West Bengali,257
+36,Uttar Pradesh,239
+37,Piemonte,17
+38,Okayama,284
+39,Midi-Pyrnes,544
+40,Markazi,31
+41,Henan,362
+42,Chisinau,115
+43,Esprito Santo,569
+44,Oriental,353
+45,Yerevan,586
+46,Nonthaburi,394
+47,Tahiti,167
+48,Lipetsk,308
+49,Antofagasta,27
+50,Moscow (City),343
+51,Cear,247
+52,Tatarstan,367
+53,Mekka,237
+54,Khartum,379
+55,California,171
+56,Galicia,1
+57,Chiba,355
+58,Yamaguchi,227
+59,Moskova,49
+60,Tahiti,397
+61,Vaduz,560
+62,Sarawak,282
+63,Karnataka,350
+64,Rajasthan,231
+65,Basel-Stadt,56
+66,Missouri,441
+67,Nebraska,306
+68,Sichuan,139
+69,Cayenne,105
+70,Skne ln,321
+71,Hunan,579
+72,Madhya Pradesh,475
+73,Bchar,63
+74,Mekka,13
+75,Eastern Visayas,61
+76,National Capital Reg,517
+77,Chiayi,114
+78,So Paulo,431
+79,Changhwa,108
+80,Pavlodar,402
+81,So Paulo,30
+82,Uttar Pradesh,425
+83,Kanagawa,256
+84,Oyo & Osun,217
+85,Mahajanga,319
+86,Krim,479
+87,Gauteng,497
+88,Puebla,40
+89,England,88
+90,Songkhla,489
+91,Sucre,480
+92,Cheju,113
+93,Buenos Aires,289
+94,Guangdong,332
+95,Brunei and Muara,53
+96,Gois,183
+97,Inner Mongolia,592
+98,Caraga,82
+99,Punjab,399
+100,Georgia,41
+101,Tete,534
+102,Abu Dhabi,12
+103,Kyongsangbuk,268
+104,Lipetsk,238
+105,Asir,2
+106,Ha Darom,34
+107,Kwara & Kogi,220
+108,Provence-Alpes-Cte,543
+109,Funafuti,173
+110,Ivanovo,225
+111,Buenos Aires,334
+112,Mxico,213
+113,North West,273
+114,Hubei,159
+115,Distrito Federal,102
+116,California,292
+117,Sucre,132
+118,Nordrhein-Westfalen,148
+119,Mxico,365
+120,Central Java,403
+121,Gujarat,176
+122,Texas,185
+123,al-Qalyubiya,476
+124,Risaralda,147
+125,Uttar Pradesh,164
+126,Lima,305
+127,Uttar Pradesh,566
+128,Ktahya,281
+129,Gauteng,85
+130,So Paulo,410
+131,Smolensk,484
+132,Slaskie,236
+133,Shandong,302
+134,Gois,190
+135,Taka-Karpatia,345
+136,Free State,87
+137,Coahuila de Zaragoza,541
+138,al-Qalyubiya,421
+139,Maharashtra,417
+140,Karnataka,211
+141,Gelderland,29
+142,Inner Mongolia,207
+143,Ynlin,542
+144,Tennessee,123
+145,Hiroshima,172
+146,Scotland,149
+147,Kilis,266
+148,Minsk,340
+149,Gauteng,491
+150,Michigan,499
+151,Saitama,555
+152,Saint-Denis,442
+153,Massachusetts,94
+154,Michoacn de Ocampo,202
+155,Shandong,291
+156,Assam,354
+157,Jakarta Raya,232
+158,Shanxi,590
+159,Bern,72
+160,Ondo & Ekiti,381
+161,Pyongyang-si,420
+162,North Carolina,187
+163,North Austria,307
+164,Moskova,310
+165,Tel Aviv,533
+166,Pays de la Loire,297
+167,Gifu,253
+168,Adana,529
+169,Xinxiang,199
+170,Lilongwe,304
+171,Maharashtra,107
+172,Gansu,240
+173,Jiangxi,407
+174,Rajasthan,550
+175,Perak,223
+176,Batman,58
+177,Steiermark,186
+178,Miranda,373
+179,Kerala,18
+180,Skikda,483
+181,Tamaulipas,330
+182,So Paulo,456
+183,Kirov,270
+184,Risaralda,405
+185,Tennessee,333
+186,California,126
+187,Gois,317
+188,Noord-Brabant,438
+189,Chaharmahal va Bakht,467
+190,West Bengali,195
+191,Sumy,506
+192,Caraga,62
+193,Ontario,383
+194,Tabora,513
+195,Rostov-na-Donu,369
+196,Uttar Pradesh,169
+197,Nyanza,271
+198,Tokyo-to,204
+199,Nordrhein-Westfalen,477
+200,Baden-Wrttemberg,325
+201,Jiangsu,109
+202,Ondo & Ekiti,218
+203,Haiphong,194
+204,Ahal,35
+205,Nordrhein-Westfalen,575
+206,Maharashtra,77
+207,Sulawesi Utara,184
+208,Usak,557
+209,Alto Paran,122
+210,Santa Catarina,83
+211,Kitaa,371
+212,West Bengali,51
+213,Rajasthan,74
+214,Aden,7
+215,Jilin,174
+216,Washington,65
+217,Taizz,518
+218,California,508
+219,Haskovo,498
+220,Gois,28
+221,Uttar Pradesh,448
+222,Kabol,251
+223,Buenos Aires,567
+224,Zanzibar West,593
+225,Sisilia,511
+226,Jaroslavl,235
+227,Punjab,324
+228,Rajasthan,243
+229,Tamil Nadu,22
+230,Asuncin,37
+231,Saarland,439
+232,Phnom Penh,406
+233,Gois,26
+234,Botosani,86
+235,West Bengali,559
+236,Kaduna,596
+237,Qina,216
+238,Hawalli,233
+239,Valle,96
+240,Southern Tagalog,527
+241,Chollanam,357
+242,Karnataka,473
+243,West Java,118
+244,Fukushima,226
+245,Hubei,578
+246,Hebei,422
+247,Tucumn,454
+248,Central Visayas,294
+249,Kyonggi,553
+250,Paran,328
+251,Mxico,124
+252,Florida,520
+253,Tianjin,535
+254,Oyo & Osun,390
+255,Anhalt Sachsen,198
+256,England,312
+258,Miyazaki,338
+259,Minas Gerais,413
+260,Central Luzon,192
+261,Sagaing,342
+262,Sofala,64
+263,Santiago,460
+264,West Bengali,197
+265,Shanxi,136
+266,Cagayan Valley,548
+267,Manab,414
+268,National Capital Reg,323
+269,Osaka,203
+270,Severn Morava,378
+271,Salzburg,447
+272,Hunan,298
+273,Kerala,395
+274,California,446
+275,Wielkopolskie,255
+276,Tamil Nadu,283
+277,Shandong,584
+278,Guanajuato,445
+279,Haryana,263
+280,Illinois,404
+281,Michigan,573
+282,Oyo & Osun,374
+283,Bursa,222
+284,East Azerbaidzan,514
+285,Ondo & Ekiti,389
+286,Fujian,175
+287,Ponce,411
+288,Xinxiang,277
+289,Edo & Delta,69
+290,Shiga,386
+291,Oyo & Osun,152
+292,Tamil Nadu,522
+293,Guanajuato,563
+294,Kowloon and New Kowl,279
+295,Gurico,562
+296,Virginia,433
+297,Sharja,470
+298,Baskimaa,146
+299,Ohio,140
+300,Pietari,274
+301,Punjab,400
+302,Maharashtra,9
+303,Pohjois-Pohjanmaa,387
+304,Hiroshima,205
+305,Maharashtra,398
+306,Kaliningrad,254
+307,Liaoning,536
+308,Sanaa,455
+309,Callao,99
+310,Texas,33
+311,Kedah,507
+312,Rio de Janeiro,25
+313,Missouri,262
+314,Lombardia,91
+315,Minas Gerais,215
+316,Kursk,286
+317,Tabuk,515
+318,Hubei,166
+319,So Paulo,490
+320,Tel Aviv,57
+321,Maharashtra,336
+322,Streymoyar,545
+323,Kujawsko-Pomorskie,97
+324,Mxico,451
+325,Tutuila,516
+326,Central,81
+327,Buenos Aires,45
+328,Morelos,130
+329,Henan,591
+330,Distrito Federal,89
+331,St George,269
+332,Adana,5
+333,West Java,119
+334,Dhaka,234
+335,Illinois,42
+336,Santa F,457
+337,Dhaka,143
+338,Baki,48
+339,Sumqayit,505
+340,Sousse,492
+341,Uttar Pradesh,427
+342,Hiroshima,382
+343,Western Cape,392
+344,Henan,581
+345,Hanoi,201
+346,Gelderland,151
+347,Roraima,84
+348,Baja California,335
+349,Tongatapu,370
+350,Central,453
+351,Adygea,320
+352,Daugavpils,137
+353,Taipei,209
+354,Southern Tagalog,221
+355,Tuvassia,531
+356,Krasnojarsk,597
+357,Nord-Ouest,52
+358,Hidalgo,393
+359,So Paulo,461
+360,Shimane,331
+361,Madhya Pradesh,464
+362,Bratislava,90
+363,Jharkhand,429
+364,Buenos Aires,20
+365,Arecibo,32
+366,Centre,585
+367,Par,66
+368,Central,372
+369,Jalisco,188
+370,Okinawa,377
+371,Balikesir,50
+372,Andhra Pradesh,8
+373,Esfahan,356
+374,Chihuahua,250
+375,Karnataka,191
+376,Southern Tagalog,98
+377,East Java,415
+378,Southern Tagalog,523
+379,Pernambuco,572
+380,East Kasai,348
+381,Kurgan,285
+382,Kermanshah,265
+383,Guangdong,471
+384,Gujarat,73
+385,Slaskie,549
+386,,493
+387,New Hampshire,322
+388,Namibe,360
+389,Jiangsu,210
+390,Ibaragi,521
+391,Hmelnytskyi,258
+392,Shaba,315
+393,Southern Tagalog,104
+394,Sichuan,157
+395,Nakhon Sawan,358
+396,Osaka,229
+397,Addis Abeba,6
+398,Moskova,278
+399,Asturia,181
+400,al-Qadarif,15
+401,Saitama,228
+402,Krasnojarsk,39
+403,Rio Grande do Sul,44
+404,Punjab,375
+405,Texas,135
+406,Fukushima,276
+407,Bretagne,92
+408,Tamil Nadu,564
+409,Saitama,380
+410,Buenos Aires,524
+411,St Thomas,111
+412,North West,437
+413,Northern,230
+414,Bauchi & Gombe,141
+415,Ontario,430
+416,West Java,117
+417,Punjab,208
+418,West Bengali,71
+419,Guanajuato,19
+420,Utrecht,23
+421,Sind,134
+422,al-Sharqiya,16
+423,Puerto Plata,450
+424,Bihar,264
+425,California,155
+426,Tamil Nadu,416
+427,Hubei,293
+428,Sawhaj,465
+429,Guangdong,468
+430,Oaxaca,452
+431,Jharkhand,418
+432,So Paulo,189
+433,Komi,510
+434,Okayama,547
+435,Nizni Novgorod,150
+436,Chuquisaca,501
+437,KwaZulu-Natal,364
+438,Nampula,351
+439,Northern Mindanao,391
+440,Shandong,249
+441,British Colombia,565
+442,La Romana,290
+443,Copperbelt,272
+444,Lombardia,70
+445,Maharashtra,144
+446,Batna,59
+447,Inner Mongolia,540
+448,Rio Grande do Sul,486
+449,Tartumaa,530
+450,Buenos Aires,161
+451,West Bengali,554
+452,Tatarstan,352
+453,Baijeri,160
+454,Kerman,481
+455,Central Java,509
+456,Sinaloa,154
+457,Abu Dhabi,3
+458,Zulia,326
+459,Michoacn de Ocampo,556
+460,La Paz,153
+461,Ziguinchor,600
+462,Illinois,435
+463,Central Java,532
+464,Esfahan,423
+465,Caquet,170
+466,Northern Mindanao,182
+467,Irkutsk,558
+468,Nova Scotia,196
+469,OHiggins,428
+470,Jalisco,595
+471,Shandong,145
+472,Chihuahua,129
+473,Karnataka,78
+474,Galicia,388
+475,Hodeida,206
+476,Gauteng,244
+477,Nam Ha,359
+478,Aceh,301
+479,Drenthe,158
+480,Sumy,385
+481,Qubec,179
+482,England,500
+483,Ha Darom,36
+484,Ohio,11
+485,Gaziantep,180
+486,Mwanza,347
+487,Veracruz,125
+488,Denizli,142
+489,Ningxia,587
+490,Guangdong,469
+491,Coahuila de Zaragoza,4
+492,Stavropol,408
+493,Baja California Sur,288
+494,Okayama,376
+495,Boyac,487
+496,al-Daqahliya,337
+497,West Bengali,261
+498,Istanbul,504
+499,Chimborazo,434
+500,Gansu,47
+501,Shandong,432
+502,England,589
+503,Zufar,444
+504,Apulia,93
+505,East Java,318
+506,Lubelskie,314
+507,West Bengali,478
+508,Nagano,552
+509,Illinois,245
+510,Central Luzon,519
+511,Kalimantan Barat,412
+512,Eskisehir,163
+513,Andhra Pradesh,568
+514,Bihar,110
+515,Volgograd,259
+516,Heilongjiang,502
+517,Ontario,312
+519,,583
+520,Hubei,594
+521,Coquimbo,127
+522,Battambang,60
+523,Taipei,116
+524,Sivas,482
+525,Gumma,224
+526,Khanh Hoa,366
+527,Liaoning,588
+528,Southern Tagalog,458
+529,Nghe An,571
+530,West Java,419
+531,Friuli-Venezia Giuli,551
+532,Florida,101
+533,Mogiljov,339
+534,Benguela,67
+535,Andhra Pradesh,75
+536,Buenos Aires,165
+537,Mie,287
+538,Khanh Hoa,100
+539,Shandong,80
+540,Uttar Pradesh,24
+541,Chari-Baguirmi,363
+542,Kang-won,539
+543,Colorado,42
+544,Jilin,46
+545,Carabobo,561
+546,Ruse,436
+547,Toscana,309
+548,Sumatera Selatan,396
+549,Tadla-Azilal,68
+550,So Paulo,485
+551,Sumy,275
+552,Hainan,462
+553,Ishikawa,260
+554,Central Luzon,528
+555,Galicia,459
+556,Zhejiang,599
+557,Rio Grande do Sul,21
+558,Zhejiang,193
+559,Vojvodina,368
+560,Gujarat,426
+561,KwaZulu-Natal,112
+562,England,496
+563,Vilna,570
+564,Dolnoslaskie,577
+565,al-Sharqiya,79
+566,Buenos Aires,43
+567,Texas,178
+568,Sokoto & Kebbi & Zam,488
+569,Bukarest,95
+570,Shandong,580
+571,Huanuco,214
+572,Tokat,538
+573,Moskova,466
+574,Anzotegui,55
+575,Sichuan,299
+576,Coahuila de Zaragoza,341
+577,Mazowieckie,409
+578,Slaskie,133
+579,Qaraghandy,598
+580,Tokyo-to,10
+581,Morelos,131
+582,Kaohsiung,168
+583,Taipei,526
+584,Campeche,103
+585,Ninawa,344
+586,Central Mindanao,219
+587,Guerrero,246
+588,Hidalgo,212
+589,England,494
+590,Banjul,54
+591,Buenos Aires,424
+592,Nantou,546
+593,Guanajuato,106
+594,Shandong,574
+595,Loja,311
+596,al-Manama,14
+597,Minas Gerais,248
+598,Fejr,512
+599,California,177
+600,Inner Mongolia,241
+601,Liaoning,242
+602,West Greece,401
+603,Piura,503
+604,Vaud,296
+605,Heilongjiang,537
